@@ -1,4 +1,9 @@
-
+function CreateFullHeightSection(id) {
+    var section = document.createElement('div');
+    section.classList.add('section', 'p-2');
+    section.id = id;
+    return section;
+}
 
 function CreateNavBar() {
 
