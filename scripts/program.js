@@ -11,7 +11,7 @@ function LoadPage(){
 function CreateDOM(){
     var container = document.createElement("div");
 
-    container.innerText = "Mike Does Stuff";
+    container.innerText = "Mike Does Stuff Here";
 
     return container;
 }
