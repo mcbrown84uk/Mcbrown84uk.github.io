@@ -27,11 +27,10 @@ function CreateDOM() {
 }
 
 function CreateFullHeightSection(id) {
-    var section = document.createElement('section');
-
+    var section = document.createElement('div');
+    section.classList.add('section');
+    
     section.id = id;
-
-    section.innerText = id;
 
     section.style.height = '100vh';
 
