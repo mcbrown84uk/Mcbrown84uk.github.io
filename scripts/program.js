@@ -3,5 +3,15 @@ function LoadPage(){
     //test
     var body = document.body;
 
-    body.innerText = 'Hello World';
+    body.appendChild(CreateDOM());
+
+
+}
+
+function CreateDOM(){
+    var container = document.createElement("div");
+
+    container.innerText = "Mike Does Stuff";
+
+    return container;
 }
