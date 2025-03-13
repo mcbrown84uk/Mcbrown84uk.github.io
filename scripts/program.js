@@ -16,7 +16,7 @@ function CreateDOM() {
     jumboTronHeader.innerText = "Mike Does Stuff";
 
     var jumbotronSubHeader = document.createElement('p');
-    p.innerText = "My Corner of the internet";
+    jumbotronSubHeader.innerText = "My Corner of the internet";
 
     jumbotron.appendChild(jumboTronHeader);
     jumbotron.appendChild(jumbotronSubHeader);
