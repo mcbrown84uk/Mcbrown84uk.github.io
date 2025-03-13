@@ -1,3 +1,5 @@
+
+
 function LoadPage() {
 
     CreateDOM();
@@ -7,21 +9,19 @@ function LoadPage() {
 function CreateDOM() {
 
     var body = document.body;
+    body.setAttribute('data-bs-spy', 'scroll');
+    body.setAttribute('data-bs-target', '.navbar');
+    body.setAttribute('data-bs-offset', '50');
 
     var container = document.createElement("div");
     container.classList.add('container-fluid', 'g-0');
 
-    container.appendChild(CreateFullHeightSection('hero'));
-    container.appendChild(CreateFullHeightSection('aboutMe'));
-    container.appendChild(CreateFullHeightSection('resume'));
-    container.appendChild(CreateFullHeightSection('photos'));
-    container.appendChild(CreateFullHeightSection('vinyl'));
-    container.appendChild(CreateFullHeightSection('lego'));
-    container.appendChild(CreateFullHeightSection('projects'));
-    container.appendChild(CreateFullHeightSection('sandbox'));
-    container.appendChild(CreateFullHeightSection('contact'));
+    for(var pageSection of _pageSections){
+        container.appendChild(CreateFullHeightSection(pageSection.id));
+    }
 
     body.appendChild(container)
+    container.appendChild(CreateNavBar());
 
     return container;
 }
@@ -29,10 +29,6 @@ function CreateDOM() {
 function CreateFullHeightSection(id) {
     var section = document.createElement('div');
     section.classList.add('section', 'p-2');
-
     section.id = id;
-
-    section.style.height = '100vh';
-
     return section;
 }
