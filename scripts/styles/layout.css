@@ -4,8 +4,9 @@ body{
 }
 
 .section{
-    height:calc(100vh - 56px);
-    max-height: calc(100vh - 56vh);
+    height:100vh;
+    max-height: 100vh;
+    margin-top: 56px;
 }
 
 #hero{
