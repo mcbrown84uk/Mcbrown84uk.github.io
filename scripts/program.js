@@ -13,15 +13,11 @@ function CreateDOM() {
     body.setAttribute('data-bs-target', '.navbar');
     body.setAttribute('data-bs-offset', '50');
 
-    var container = document.createElement("div");
-    container.classList.add('container-fluid', 'g-0');
+    body.appendChild(CreateNavBar());
 
     for(var pageSection of _pageSections){
-        container.appendChild(CreateFullHeightSection(pageSection.id));
+        body.appendChild(CreateFullHeightSection(pageSection.id));
     }
-
-    body.appendChild(container)
-    container.appendChild(CreateNavBar());
 
     return container;
 }
