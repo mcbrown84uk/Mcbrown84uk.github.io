@@ -12,4 +12,36 @@ body{
     background-color: red;
 }
 
-#aboutMe{background-color: blue;}
+#aboutMe{
+    background-color: blue;
+}
+
+#resume{
+    background-color: lavender;
+}
+
+#photos{
+    background-color: brown;
+}
+
+#vinyl{
+    background-color: lightcoral;
+}
+
+#lego{
+    background-color: black;
+}
+
+#projects{
+    background-color: lightcyan;
+}
+
+#sandbox{
+    background-color: yellow;
+}
+
+#contact{
+    background-color: crimson;
+}
+
+ 
