@@ -9,6 +9,7 @@ function CreateNavBar() {
     container.classList.add('container-fluid');
 
     var ul = document.createElement('ul');
+    ul.classList.add('navbar-nav');
 
     for (var pageSection of _pageSections) {
         var li = document.createElement('li');
