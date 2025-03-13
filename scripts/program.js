@@ -9,7 +9,7 @@ function CreateDOM() {
     var body = document.body;
 
     var container = document.createElement("div");
-    container.classList.add('container-fluid');
+    container.classList.add('container-fluid', 'g-0');
 
     container.appendChild(CreateFullHeightSection('hero'));
     container.appendChild(CreateFullHeightSection('aboutMe'));
@@ -28,8 +28,8 @@ function CreateDOM() {
 
 function CreateFullHeightSection(id) {
     var section = document.createElement('div');
-    section.classList.add('section');
-    
+    section.classList.add('section', 'p-2');
+
     section.id = id;
 
     section.style.height = '100vh';
