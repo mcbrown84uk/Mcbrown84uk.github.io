@@ -8,11 +8,9 @@ function CreateNavBar() {
     var container = document.createElement('div');
     container.classList.add('container-fluid');
 
-    nav.appendChild(container);
-
     var ul = document.createElement('ul');
 
-    for(var pageSection of _pageSections){
+    for (var pageSection of _pageSections) {
         var li = document.createElement('li');
         var link = document.createElement('a');
         link.classList.add('nav-link');
@@ -22,6 +20,8 @@ function CreateNavBar() {
         ul.appendChild(li);
     }
 
+    container.appendChild(ul);
+    nav.appendChild(container);
     return nav;
 }
 
