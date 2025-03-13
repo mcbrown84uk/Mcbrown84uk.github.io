@@ -12,7 +12,7 @@ function CreateDOM() {
     var jumbotron = document.createElement('div');
     jumbotron.classList.add('mt-4', 'p-5', 'bg-primary', 'text-white', 'rounded');
 
-    var jumboTronHeader = document.createElement('div');
+    var jumboTronHeader = document.createElement('h1');
     jumboTronHeader.innerText = "Mike Does Stuff";
 
     var jumbotronSubHeader = document.createElement('p');
