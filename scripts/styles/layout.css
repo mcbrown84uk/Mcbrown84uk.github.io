@@ -1,47 +1,51 @@
-body{
-    background-color: green;
-    position: relative; 
+body {
+    position: relative;
+    font-family: "Big Shoulders Inline", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100 !important;
+    font-style: normal;
 }
 
-.section{
-    height:100vh;
+.section {
+    height: 100vh;
     max-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-#hero{
-    background-color: red;
+#hero {
+    background-image: url("../../images/logo/portsmouth.jpg");
 }
 
-#aboutMe{
-    background-color: blue;
+#aboutMe {
+    background-color: rgb(45, 45, 46);
 }
 
-#resume{
+#resume {
     background-color: lavender;
 }
 
-#photos{
+#photos {
     background-color: brown;
 }
 
-#vinyl{
+#vinyl {
     background-color: lightcoral;
 }
 
-#lego{
+#lego {
     background-color: black;
 }
 
-#projects{
+#projects {
     background-color: lightcyan;
 }
 
-#sandbox{
+#sandbox {
     background-color: yellow;
 }
 
-#contact{
+#contact {
     background-color: crimson;
 }
-
- 

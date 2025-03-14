@@ -8,7 +8,7 @@ function CreateFullHeightSection(id) {
 function CreateNavBar() {
 
     var nav = document.createElement('nav');
-    nav.classList.add('navbar', 'navbar-expand-sm', 'bg-dark', 'navbar-dark', 'fixed-top');
+    nav.classList.add('navbar', 'navbar-expand-md', 'bg-dark', 'navbar-dark', 'fixed-top', 'justify-content-right', 'bg-opacity-75', 'shadow');
 
     var container = document.createElement('div');
     container.classList.add('container-fluid');
@@ -27,6 +27,23 @@ function CreateNavBar() {
     navBrand.appendChild(navBrandImg);
     container.appendChild(navBrand);
 
+    var hamburger = document.createElement('button');
+    hamburger.classList.add('navbar-toggler');
+    hamburger.type = 'button';
+    hamburger.setAttribute('data-bs-toggle', 'collapse');
+    hamburger.setAttribute('data-bs-target', '#collapsibleNavbar');
+
+    var hamburgerIcon = document.createElement('span');
+    hamburgerIcon.classList.add('navbar-toggler-icon')
+  
+    hamburger.appendChild(hamburgerIcon);
+
+    container.appendChild(hamburger);
+
+    var navbarCollapse = document.createElement('div');
+    navbarCollapse.classList.add('collapse', 'navbar-collapse');
+    navbarCollapse.id = 'collapsibleNavbar';
+
     var ul = document.createElement('ul');
     ul.classList.add('navbar-nav');
 
@@ -42,7 +59,8 @@ function CreateNavBar() {
         }
     }
 
-    container.appendChild(ul);
+    navbarCollapse.appendChild(ul);
+    container.appendChild(navbarCollapse);
     nav.appendChild(container);
     return nav;
 }
