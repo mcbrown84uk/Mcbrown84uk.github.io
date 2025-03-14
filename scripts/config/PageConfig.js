@@ -1,18 +1,27 @@
 var _pageSections = [
     {
         text: "Home",
-        id: "hero"
+        id: "hero",
+        showInNav: false
     },
     {
-        text: "Mike",
-        id: "aboutMe"
+        text: "Projects",
+        id: "projects",
+        showInNav: true
     },
     {
-        text: "CV",
-        id: "resume"
+        text: "MikeDoesStuff",
+        id: "mikeDoesStuff",
+        showInNav: false
+    },
+    {
+        text: "Interests",
+        id: "interests",
+        showInNav: true
     },
     {
         text: "Photos",
-        id: "photos"
+        id: "photos",
+        showInNav: false
     }
 ];
