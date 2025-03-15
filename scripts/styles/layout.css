@@ -44,12 +44,13 @@ body {
   
     font-size:10vw;
     font-weight: 800 !important;
-    background-color: rgba(255,255,255, 0.3);
-    
+    background-color: rgba(255,255,255, 0.5);
+    text-decoration: none;
 }
 
 .interests-container:hover .interests-title{
     background-color: rgba(255,255,255, 0.7);
+    color: orangered;
 }
 
 #legoContainer{

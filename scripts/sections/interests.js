@@ -18,17 +18,18 @@ function CreateInterests(){
     vinylContainer.classList.add('col-md-4', 'h-md-100', 'interests-container', 'position-relative');
     travelContainer.classList.add('col-md-4', 'h-md-100', 'interests-container', 'position-relative');
 
-    var legoTitle = document.createElement('span');
+    var legoTitle = document.createElement('a');
     legoTitle.classList.add('interests-title', 'position-absolute', 'top-50', 'start-50', 'translate-middle', 'p-2', 'w-100', 'text-center');
     legoTitle.innerText = 'Lego';
+    legoTitle.href = "#lego";
     legoContainer.appendChild(legoTitle);
 
-    var vinylTitle = document.createElement('span');
+    var vinylTitle = document.createElement('a');
     vinylTitle.classList.add('interests-title', 'position-absolute', 'top-50', 'start-50', 'translate-middle', 'p-2', 'w-100', 'text-center');
     vinylTitle.innerText = 'Vinyl';
     vinylContainer.appendChild(vinylTitle);
 
-    var travelTitle = document.createElement('span');
+    var travelTitle = document.createElement('a');
     travelTitle.classList.add('interests-title', 'position-absolute', 'top-50', 'start-50', 'translate-middle', 'p-2', 'w-100', 'text-center');
     travelTitle.innerText = 'Travel';
     travelContainer.appendChild(travelTitle);

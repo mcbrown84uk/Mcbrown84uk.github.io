@@ -4,6 +4,7 @@ function LoadPage() {
     CreateDOM();
     CreateHero();
     CreateInterests();
+    CreateLego();
 }
 
 function CreateDOM() {
