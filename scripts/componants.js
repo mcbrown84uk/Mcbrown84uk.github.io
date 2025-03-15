@@ -1,6 +1,6 @@
 function CreateFullHeightSection(id) {
     var section = document.createElement('div');
-    section.classList.add('section', 'pt-5');
+    section.classList.add('section');
     section.id = id;
     return section;
 }
@@ -8,7 +8,7 @@ function CreateFullHeightSection(id) {
 function CreateNavBar() {
 
     var nav = document.createElement('nav');
-    nav.classList.add('navbar', 'navbar-expand-md', 'bg-dark', 'navbar-dark', 'fixed-top', 'justify-content-right', 'bg-opacity-75', 'shadow');
+    nav.classList.add('navbar', 'navbar-expand-md', 'bg-dark', 'navbar-dark', 'fixed-top',  'bg-opacity-75');
 
     var container = document.createElement('div');
     container.classList.add('container-fluid');
@@ -16,7 +16,6 @@ function CreateNavBar() {
     var navBrand = document.createElement('a');
     navBrand.classList.add('navbar-brand');
     navBrand.href = "#";
-    //navBrand.innerText = 'Home';
 
     var navBrandImg = document.createElement('img');
     navBrandImg.alt = "MikeDoesStuff Logo";

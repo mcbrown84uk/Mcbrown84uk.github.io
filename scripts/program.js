@@ -3,6 +3,7 @@
 function LoadPage() {
     CreateDOM();
     CreateHero();
+    CreateInterests();
 }
 
 function CreateDOM() {

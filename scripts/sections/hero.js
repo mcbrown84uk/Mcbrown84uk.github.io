@@ -5,7 +5,7 @@ function CreateHero() {
     var span = document.createElement('h1');
 
     span.innerText = 'mikedoesstuff.online';
-    span.classList.add('hero-title', 'position-absolute', 'bottom-0', 'start-0');
+    span.classList.add('hero-title', 'position-absolute', 'bottom-0', 'start-50', 'translate-middle-x');
 
     section.appendChild(span);
 }

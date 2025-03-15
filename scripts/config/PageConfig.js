@@ -5,23 +5,14 @@ var _pageSections = [
         showInNav: false
     },
     {
-        text: "Projects",
-        id: "projects",
-        showInNav: true
-    },
-    {
-        text: "MikeDoesStuff",
-        id: "mikeDoesStuff",
-        showInNav: false
-    },
-    {
         text: "Interests",
         id: "interests",
         showInNav: true
     },
     {
-        text: "Photos",
-        id: "photos",
+        text: "Lego",
+        id: "lego",
         showInNav: false
-    }
+    },
+
 ];

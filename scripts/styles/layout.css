@@ -1,8 +1,13 @@
+* {
+    max-width: 100%;
+    
+}
+
 body {
     position: relative;
     font-family: "Big Shoulders Inline", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 100 !important;
+    font-weight: 100;
     font-style: normal;
 }
 
@@ -24,34 +29,46 @@ body {
     color:orange;
 }
 
-#aboutMe {
+#interests {
     background-color: rgb(45, 45, 46);
 }
 
-#resume {
-    background-color: lavender;
+.interests-container{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
 }
 
-#photos {
-    background-color: brown;
+.interests-title{
+  
+    font-size:10vw;
+    font-weight: 800 !important;
+    background-color: rgba(255,255,255, 0.3);
+    
 }
 
-#vinyl {
-    background-color: lightcoral;
+.interests-container:hover .interests-title{
+    background-color: rgba(255,255,255, 0.7);
 }
+
+#legoContainer{
+    background-image: url("../../images/interests/lego.jpg");
+}
+
+#vinylContainer{
+    background-image: url("../../images/interests/vinyl.jpg");
+}
+
+#travelContainer{
+    background-image: url("../../images/interests/barcelona.jpg");
+}
+
+
+
 
 #lego {
-    background-color: black;
+    background-image: url("../../images/interests/stormtrooper_lego.jpg");
 }
 
-#projects {
-    background-color: lightcyan;
-}
 
-#sandbox {
-    background-color: yellow;
-}
-
-#contact {
-    background-color: crimson;
-}
