@@ -20,9 +20,8 @@ function CreateNavBar() {
 
     var navBrandImg = document.createElement('img');
     navBrandImg.alt = "MikeDoesStuff Logo";
-    navBrandImg.style = "width:30px";
-    navBrandImg.classList.add('rounded-pill');
-    navBrandImg.src = "images/logo/logo1.jpg";
+    navBrandImg.style = "width:32px";
+    navBrandImg.src = "images/Logo/favicon-32x32.png";
 
     navBrand.appendChild(navBrandImg);
     container.appendChild(navBrand);
