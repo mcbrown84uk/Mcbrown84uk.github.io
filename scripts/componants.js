@@ -20,7 +20,7 @@ function CreateNavBar() {
     var navBrandImg = document.createElement('img');
     navBrandImg.alt = "MikeDoesStuff Logo";
     navBrandImg.style = "width:32px";
-    navBrandImg.src = "images/Logo/favicon-32x32.png";
+    navBrandImg.src = "images/logo/favicon-32x32.png";
 
     navBrand.appendChild(navBrandImg);
     container.appendChild(navBrand);
