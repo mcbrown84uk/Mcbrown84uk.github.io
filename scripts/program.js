@@ -1,22 +1,19 @@
-
-
 function LoadPage() {
-    CreateDOM();
-    CreateHero();
-    CreateInterests();
-    CreateLego();
-}
-
-function CreateDOM() {
     var body = document.body;
+
     body.setAttribute('data-bs-spy', 'scroll');
     body.setAttribute('data-bs-target', '.navbar');
     body.setAttribute('data-bs-offset', '50');
 
     body.appendChild(CreateNavBar());
 
-    for(var pageSection of _pageSections){
+    for (var pageSection of _pageSections) {
         body.appendChild(CreateFullHeightSection(pageSection.id));
     }
+
+    CreateHero();
+    CreateInterests();
+    CreateLego();
 }
+
 
