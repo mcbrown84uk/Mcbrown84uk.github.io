@@ -18,6 +18,12 @@ body {
     background-image: url("../../images/logo/portsmouth.jpg");
 }
 
+.hero-title{
+    font-size: 7vw;
+    text-shadow: 5px 5px rgba(0,0,0,0.75);
+    color:orange;
+}
+
 #aboutMe {
     background-color: rgb(45, 45, 46);
 }
