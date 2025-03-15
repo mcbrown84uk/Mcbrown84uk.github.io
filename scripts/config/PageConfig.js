@@ -16,3 +16,5 @@ var _pageSections = [
     },
 
 ];
+
+var _interests = ['Lego', 'Vinyl', 'Travel']

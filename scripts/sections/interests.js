@@ -7,7 +7,7 @@ function CreateInterests() {
     container.classList.add('container-fluid', 'h-100', 'g-0')
     row.classList.add('row', 'h-100', 'g-0');
 
-    for (var interest of ['Lego', 'Vinyl', 'Travel']) {
+    for (var interest of _interests) {
         var interestContainer = document.createElement('div');
         interestContainer.id = interest.toLowerCase() + 'Container';
         interestContainer.classList.add('col-md-4', 'h-md-100', 'interests-container', 'position-relative');
