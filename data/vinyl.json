@@ -1,0 +1,2980 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "items": 62,
+        "urls": {
+            "last": "https://api.discogs.com/users/cloudstrifeuk/collection/folders/0/releases?page=2&per_page=50",
+            "next": "https://api.discogs.com/users/cloudstrifeuk/collection/folders/0/releases?page=2&per_page=50"
+        }
+    },
+    "releases": [
+        {
+            "id": 588150,
+            "instance_id": 1359242433,
+            "date_added": "2023-05-19T01:46:39-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 588150,
+                "master_id": 620576,
+                "master_url": "https://api.discogs.com/masters/620576",
+                "resource_url": "https://api.discogs.com/releases/588150",
+                "thumb": "",
+                "cover_image": "",
+                "title": "In Your Barcalounger",
+                "year": 1999,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Blue B-Side Label",
+                        "descriptions": [
+                            "7\"",
+                            "45 RPM",
+                            "Single"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Me First And The Gimme Gimmes",
+                        "anv": "Me First & The Gimme Gimmes",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 10532194,
+                        "resource_url": "https://api.discogs.com/artists/10532194"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Alternative Tentacles",
+                        "catno": "VIRUS 226",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 10389,
+                        "resource_url": "https://api.discogs.com/labels/10389"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Punk"
+                ]
+            }
+        },
+        {
+            "id": 28461643,
+            "instance_id": 1500002527,
+            "date_added": "2023-11-03T09:28:22-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 28461643,
+                "master_id": 52484,
+                "master_url": "https://api.discogs.com/masters/52484",
+                "resource_url": "https://api.discogs.com/releases/28461643",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Permission To Land",
+                "year": 2023,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "20th Anniversary, Gatefold",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Reissue",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "The Darkness",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 154624,
+                        "resource_url": "https://api.discogs.com/artists/154624"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Atlantic",
+                        "catno": "5054197570209",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 681,
+                        "resource_url": "https://api.discogs.com/labels/681"
+                    },
+                    {
+                        "name": "Must... Destroy!!",
+                        "catno": "5054197570209",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 854341,
+                        "resource_url": "https://api.discogs.com/labels/854341"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Hard Rock",
+                    "Pop Rock",
+                    "Glam"
+                ]
+            }
+        },
+        {
+            "id": 961853,
+            "instance_id": 1357288971,
+            "date_added": "2023-05-16T12:50:37-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 961853,
+                "master_id": 111371,
+                "master_url": "https://api.discogs.com/masters/111371",
+                "resource_url": "https://api.discogs.com/releases/961853",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Butterflies & Hurricanes",
+                "year": 2004,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Clear",
+                        "descriptions": [
+                            "7\"",
+                            "Limited Edition",
+                            "33 ⅓ RPM"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Muse",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1003,
+                        "resource_url": "https://api.discogs.com/artists/1003"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Atlantic",
+                        "catno": "ATUK003",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 681,
+                        "resource_url": "https://api.discogs.com/labels/681"
+                    },
+                    {
+                        "name": "Taste Media",
+                        "catno": "5050467-6926-7-0",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 35473,
+                        "resource_url": "https://api.discogs.com/labels/35473"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 3649416,
+            "instance_id": 1357386897,
+            "date_added": "2023-05-16T15:11:30-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 3649416,
+                "master_id": 239826,
+                "master_url": "https://api.discogs.com/masters/239826",
+                "resource_url": "https://api.discogs.com/releases/3649416",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Slash",
+                "year": 2010,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "2",
+                        "text": "Gatefold",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Slash (3)",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 170015,
+                        "resource_url": "https://api.discogs.com/artists/170015"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Cargo Records",
+                        "catno": "RRCAR 7795-1",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 13012,
+                        "resource_url": "https://api.discogs.com/labels/13012"
+                    },
+                    {
+                        "name": "Roadrunner Records",
+                        "catno": "RRCAR 7795-1",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 34268,
+                        "resource_url": "https://api.discogs.com/labels/34268"
+                    }
+                ],
+                "genres": [
+                    "Rock",
+                    "Pop"
+                ],
+                "styles": [
+                    "Hard Rock"
+                ]
+            }
+        },
+        {
+            "id": 1274813,
+            "instance_id": 1357288485,
+            "date_added": "2023-05-16T12:50:03-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1274813,
+                "master_id": 111369,
+                "master_url": "https://api.discogs.com/masters/111369",
+                "resource_url": "https://api.discogs.com/releases/1274813",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Time Is Running Out",
+                "year": 2003,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Clear",
+                        "descriptions": [
+                            "7\"",
+                            "45 RPM"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Muse",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1003,
+                        "resource_url": "https://api.discogs.com/artists/1003"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "EastWest",
+                        "catno": "EW272",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 999,
+                        "resource_url": "https://api.discogs.com/labels/999"
+                    },
+                    {
+                        "name": "Taste Media",
+                        "catno": "EW272",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 35473,
+                        "resource_url": "https://api.discogs.com/labels/35473"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 17677480,
+            "instance_id": 1357375728,
+            "date_added": "2023-05-16T14:53:09-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 17677480,
+                "master_id": 2006461,
+                "master_url": "https://api.discogs.com/masters/2006461",
+                "resource_url": "https://api.discogs.com/releases/17677480",
+                "thumb": "",
+                "cover_image": "",
+                "title": "NIRATIAS",
+                "year": 2021,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Chevelle (2)",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 404027,
+                        "resource_url": "https://api.discogs.com/artists/404027"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Epic",
+                        "catno": "19439802441",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 1005,
+                        "resource_url": "https://api.discogs.com/labels/1005"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 1557574,
+            "instance_id": 1357344135,
+            "date_added": "2023-05-16T14:05:34-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1557574,
+                "master_id": 256559,
+                "master_url": "https://api.discogs.com/masters/256559",
+                "resource_url": "https://api.discogs.com/releases/1557574",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Dolly",
+                "year": 2007,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Green Translucent",
+                        "descriptions": [
+                            "7\"",
+                            "Single",
+                            "45 RPM",
+                            "Limited Edition"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Me First And The Gimme Gimmes",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 10532194,
+                        "resource_url": "https://api.discogs.com/artists/10532194"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Fat Wreck Chords",
+                        "catno": "FAT227-7",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 33296,
+                        "resource_url": "https://api.discogs.com/labels/33296"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Punk"
+                ]
+            }
+        },
+        {
+            "id": 1332099,
+            "instance_id": 1357343790,
+            "date_added": "2023-05-16T14:05:02-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1332099,
+                "master_id": 285096,
+                "master_url": "https://api.discogs.com/masters/285096",
+                "resource_url": "https://api.discogs.com/releases/1332099",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Cash",
+                "year": 2007,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Red Translucent",
+                        "descriptions": [
+                            "7\"",
+                            "45 RPM",
+                            "Single",
+                            "Limited Edition"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Me First And The Gimme Gimmes",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 10532194,
+                        "resource_url": "https://api.discogs.com/artists/10532194"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Fat Wreck Chords",
+                        "catno": "FAT228",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 33296,
+                        "resource_url": "https://api.discogs.com/labels/33296"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Punk"
+                ]
+            }
+        },
+        {
+            "id": 1332110,
+            "instance_id": 1357343373,
+            "date_added": "2023-05-16T14:04:25-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1332110,
+                "master_id": 229224,
+                "master_url": "https://api.discogs.com/masters/229224",
+                "resource_url": "https://api.discogs.com/releases/1332110",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Willie",
+                "year": 2007,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Blue Translucent",
+                        "descriptions": [
+                            "7\"",
+                            "45 RPM",
+                            "Single",
+                            "Limited Edition"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Me First And The Gimme Gimmes",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 10532194,
+                        "resource_url": "https://api.discogs.com/artists/10532194"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Fat Wreck Chords",
+                        "catno": "FAT229",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 33296,
+                        "resource_url": "https://api.discogs.com/labels/33296"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Punk"
+                ]
+            }
+        },
+        {
+            "id": 1332115,
+            "instance_id": 1363674228,
+            "date_added": "2023-05-24T02:25:05-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1332115,
+                "master_id": 285100,
+                "master_url": "https://api.discogs.com/masters/285100",
+                "resource_url": "https://api.discogs.com/releases/1332115",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Kenny",
+                "year": 2008,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "White",
+                        "descriptions": [
+                            "7\"",
+                            "45 RPM",
+                            "Single",
+                            "Limited Edition"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Me First And The Gimme Gimmes",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 10532194,
+                        "resource_url": "https://api.discogs.com/artists/10532194"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Fat Wreck Chords",
+                        "catno": "FAT230",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 33296,
+                        "resource_url": "https://api.discogs.com/labels/33296"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Punk"
+                ]
+            }
+        },
+        {
+            "id": 1332122,
+            "instance_id": 1357343151,
+            "date_added": "2023-05-16T14:03:55-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1332122,
+                "master_id": 285098,
+                "master_url": "https://api.discogs.com/masters/285098",
+                "resource_url": "https://api.discogs.com/releases/1332122",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Jerry",
+                "year": 2008,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Yellow",
+                        "descriptions": [
+                            "7\"",
+                            "45 RPM",
+                            "Single",
+                            "Limited Edition"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Me First And The Gimme Gimmes",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 10532194,
+                        "resource_url": "https://api.discogs.com/artists/10532194"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Fat Wreck Chords",
+                        "catno": "FAT231",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 33296,
+                        "resource_url": "https://api.discogs.com/labels/33296"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Punk"
+                ]
+            }
+        },
+        {
+            "id": 24447305,
+            "instance_id": 1357377333,
+            "date_added": "2023-05-16T14:55:58-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 24447305,
+                "master_id": 37951,
+                "master_url": "https://api.discogs.com/masters/37951",
+                "resource_url": "https://api.discogs.com/releases/24447305",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Have A Ball",
+                "year": 2022,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Neon Red/Orange w/ White & Grey Splatter",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Reissue",
+                            "Repress"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Me First And The Gimme Gimmes",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 10532194,
+                        "resource_url": "https://api.discogs.com/artists/10532194"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Fat Wreck Chords",
+                        "catno": "FAT554-1",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 33296,
+                        "resource_url": "https://api.discogs.com/labels/33296"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Surf",
+                    "Punk"
+                ]
+            }
+        },
+        {
+            "id": 15965452,
+            "instance_id": 1357376196,
+            "date_added": "2023-05-16T14:53:55-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 15965452,
+                "master_id": 9655,
+                "master_url": "https://api.discogs.com/masters/9655",
+                "resource_url": "https://api.discogs.com/releases/15965452",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Greatest Hits",
+                "year": 2020,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "2",
+                        "descriptions": [
+                            "LP",
+                            "Compilation",
+                            "Picture Disc"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Guns N' Roses",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 124535,
+                        "resource_url": "https://api.discogs.com/artists/124535"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Geffen Records",
+                        "catno": "00602507124823",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 821,
+                        "resource_url": "https://api.discogs.com/labels/821"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": []
+            }
+        },
+        {
+            "id": 415772,
+            "instance_id": 1379749842,
+            "date_added": "2023-06-12T12:48:13-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 415772,
+                "master_id": 9596,
+                "master_url": "https://api.discogs.com/masters/9596",
+                "resource_url": "https://api.discogs.com/releases/415772",
+                "thumb": "",
+                "cover_image": "",
+                "title": "You Could Be Mine",
+                "year": 1991,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "12\"",
+                            "45 RPM",
+                            "Single",
+                            "Picture Disc"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Guns N' Roses",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 124535,
+                        "resource_url": "https://api.discogs.com/artists/124535"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Geffen Records",
+                        "catno": "GFSTP 6",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 821,
+                        "resource_url": "https://api.discogs.com/labels/821"
+                    }
+                ],
+                "genres": [
+                    "Rock",
+                    "Stage & Screen"
+                ],
+                "styles": [
+                    "Hard Rock",
+                    "Soundtrack"
+                ]
+            }
+        },
+        {
+            "id": 9742464,
+            "instance_id": 1379754999,
+            "date_added": "2023-06-12T12:54:25-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 9742464,
+                "master_id": 9467,
+                "master_url": "https://api.discogs.com/masters/9467",
+                "resource_url": "https://api.discogs.com/releases/9742464",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Appetite For Destruction",
+                "year": 0,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Clear Green",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Reissue",
+                            "Unofficial Release"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Guns N' Roses",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 124535,
+                        "resource_url": "https://api.discogs.com/artists/124535"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Geffen Records (2)",
+                        "catno": "GHS 24148",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 135227,
+                        "resource_url": "https://api.discogs.com/labels/135227"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Hard Rock",
+                    "Heavy Metal"
+                ]
+            }
+        },
+        {
+            "id": 9160941,
+            "instance_id": 1360111245,
+            "date_added": "2023-05-20T02:08:24-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 9160941,
+                "master_id": 38033,
+                "master_url": "https://api.discogs.com/masters/38033",
+                "resource_url": "https://api.discogs.com/releases/9160941",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Enema Of The State",
+                "year": 2016,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "180 g, Gatefold",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Reissue",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Blink-182",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 80395,
+                        "resource_url": "https://api.discogs.com/artists/80395"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Geffen Records",
+                        "catno": "00602547998743",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 821,
+                        "resource_url": "https://api.discogs.com/labels/821"
+                    },
+                    {
+                        "name": "Universal Music Group International",
+                        "catno": "00602547998743",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 138199,
+                        "resource_url": "https://api.discogs.com/labels/138199"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Pop Punk"
+                ]
+            }
+        },
+        {
+            "id": 24308615,
+            "instance_id": 1357378074,
+            "date_added": "2023-05-16T14:57:03-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 24308615,
+                "master_id": 2757596,
+                "master_url": "https://api.discogs.com/masters/2757596",
+                "resource_url": "https://api.discogs.com/releases/24308615",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Will Of The People",
+                "year": 2022,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Red + Black Marble, Collector's Edition, Gatefold, 140g",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Muse",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1003,
+                        "resource_url": "https://api.discogs.com/artists/1003"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Helium 3",
+                        "catno": "0190296383762",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 66149,
+                        "resource_url": "https://api.discogs.com/labels/66149"
+                    },
+                    {
+                        "name": "Warner Records",
+                        "catno": "0190296383762",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 134882,
+                        "resource_url": "https://api.discogs.com/labels/134882"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 1368329,
+            "instance_id": 1359242121,
+            "date_added": "2023-05-19T01:45:54-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1368329,
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/1368329",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Elton",
+                "year": 1999,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "7\"",
+                            "45 RPM",
+                            "Single"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Me First And The Gimme Gimmes",
+                        "anv": "Me First & The Gimme Gimmes",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 10532194,
+                        "resource_url": "https://api.discogs.com/artists/10532194"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Honest Don's",
+                        "catno": "DON 020-7",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 67262,
+                        "resource_url": "https://api.discogs.com/labels/67262"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Punk"
+                ]
+            }
+        },
+        {
+            "id": 2142542,
+            "instance_id": 1359242028,
+            "date_added": "2023-05-19T01:45:43-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 2142542,
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/2142542",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Diamond",
+                "year": 1997,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "7\"",
+                            "45 RPM"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Me First And The Gimme Gimmes",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 10532194,
+                        "resource_url": "https://api.discogs.com/artists/10532194"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Hopeless Records",
+                        "catno": "HR624-7",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 33835,
+                        "resource_url": "https://api.discogs.com/labels/33835"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Punk"
+                ]
+            }
+        },
+        {
+            "id": 25983457,
+            "instance_id": 1357375461,
+            "date_added": "2023-05-16T14:52:46-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 25983457,
+                "master_id": 274270,
+                "master_url": "https://api.discogs.com/masters/274270",
+                "resource_url": "https://api.discogs.com/releases/25983457",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Nightmare",
+                "year": 2023,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "2",
+                        "text": "Gatefold, Translucent Blue",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Reissue"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Avenged Sevenfold",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 299874,
+                        "resource_url": "https://api.discogs.com/artists/299874"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Hopeless Records",
+                        "catno": "HR719-1",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 33835,
+                        "resource_url": "https://api.discogs.com/labels/33835"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Heavy Metal"
+                ]
+            }
+        },
+        {
+            "id": 25985029,
+            "instance_id": 1357375179,
+            "date_added": "2023-05-16T14:52:22-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 25985029,
+                "master_id": 137131,
+                "master_url": "https://api.discogs.com/masters/137131",
+                "resource_url": "https://api.discogs.com/releases/25985029",
+                "thumb": "",
+                "cover_image": "",
+                "title": "City Of Evil",
+                "year": 2023,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "2",
+                        "text": "Red Translucent",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Reissue",
+                            "Repress"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Avenged Sevenfold",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 299874,
+                        "resource_url": "https://api.discogs.com/artists/299874"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Hopeless Records",
+                        "catno": "HR682-1",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 33835,
+                        "resource_url": "https://api.discogs.com/labels/33835"
+                    },
+                    {
+                        "name": "Warner Bros. Records",
+                        "catno": "HR682-1",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 1000,
+                        "resource_url": "https://api.discogs.com/labels/1000"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Hardcore",
+                    "Heavy Metal"
+                ]
+            }
+        },
+        {
+            "id": 22016491,
+            "instance_id": 1357374690,
+            "date_added": "2023-05-16T14:51:38-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 22016491,
+                "master_id": 137133,
+                "master_url": "https://api.discogs.com/masters/137133",
+                "resource_url": "https://api.discogs.com/releases/22016491",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Avenged Sevenfold ",
+                "year": 2022,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "2",
+                        "text": "Orange ",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Reissue"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Avenged Sevenfold",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 299874,
+                        "resource_url": "https://api.discogs.com/artists/299874"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Hopeless Records",
+                        "catno": "HR696-1",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 33835,
+                        "resource_url": "https://api.discogs.com/labels/33835"
+                    },
+                    {
+                        "name": "Warner Bros. Records",
+                        "catno": "HR696-1",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 1000,
+                        "resource_url": "https://api.discogs.com/labels/1000"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Hard Rock"
+                ]
+            }
+        },
+        {
+            "id": 22611584,
+            "instance_id": 1729054973,
+            "date_added": "2024-07-07T15:51:27-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 22611584,
+                "master_id": 85443,
+                "master_url": "https://api.discogs.com/masters/85443",
+                "resource_url": "https://api.discogs.com/releases/22611584",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Feed The Animals",
+                "year": 2022,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "2",
+                        "descriptions": [
+                            "LP",
+                            "Limited Edition",
+                            "Reissue",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Girl Talk",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 88743,
+                        "resource_url": "https://api.discogs.com/artists/88743"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Illegal Art",
+                        "catno": "IA117LP",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 5903,
+                        "resource_url": "https://api.discogs.com/labels/5903"
+                    }
+                ],
+                "genres": [
+                    "Electronic",
+                    "Hip Hop",
+                    "Rock",
+                    "Funk / Soul",
+                    "Pop"
+                ],
+                "styles": [
+                    "Rock & Roll",
+                    "Pop Rock",
+                    "Indie Rock",
+                    "Freestyle",
+                    "Breaks",
+                    "Instrumental",
+                    "Gangsta"
+                ]
+            }
+        },
+        {
+            "id": 22612418,
+            "instance_id": 1729054562,
+            "date_added": "2024-07-07T15:50:54-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 22612418,
+                "master_id": 643473,
+                "master_url": "https://api.discogs.com/masters/643473",
+                "resource_url": "https://api.discogs.com/releases/22612418",
+                "thumb": "",
+                "cover_image": "",
+                "title": "All Day",
+                "year": 2022,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "2",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Mixed",
+                            "Reissue",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Girl Talk",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 88743,
+                        "resource_url": "https://api.discogs.com/artists/88743"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Illegal Art",
+                        "catno": "IA123LP",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 5903,
+                        "resource_url": "https://api.discogs.com/labels/5903"
+                    }
+                ],
+                "genres": [
+                    "Electronic",
+                    "Hip Hop",
+                    "Rock",
+                    "Funk / Soul",
+                    "Pop"
+                ],
+                "styles": [
+                    "Cut-up/DJ"
+                ]
+            }
+        },
+        {
+            "id": 28578814,
+            "instance_id": 1761459551,
+            "date_added": "2024-08-17T13:50:49-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 28578814,
+                "master_id": 418590,
+                "master_url": "https://api.discogs.com/masters/418590",
+                "resource_url": "https://api.discogs.com/releases/28578814",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Home Alone Christmas",
+                "year": 2023,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Compilation",
+                            "Reissue",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Various",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 194,
+                        "resource_url": ""
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Legacy",
+                        "catno": "19658807281",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 15491,
+                        "resource_url": "https://api.discogs.com/labels/15491"
+                    },
+                    {
+                        "name": "Fox Music",
+                        "catno": "19658807281",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 30018,
+                        "resource_url": "https://api.discogs.com/labels/30018"
+                    },
+                    {
+                        "name": "sony music",
+                        "catno": "19658807281",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 25487,
+                        "resource_url": "https://api.discogs.com/labels/25487"
+                    }
+                ],
+                "genres": [
+                    "Stage & Screen"
+                ],
+                "styles": [
+                    "Soundtrack"
+                ]
+            }
+        },
+        {
+            "id": 2620380,
+            "instance_id": 1357345038,
+            "date_added": "2023-05-16T14:06:56-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 2620380,
+                "master_id": 980660,
+                "master_url": "https://api.discogs.com/masters/980660",
+                "resource_url": "https://api.discogs.com/releases/2620380",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Garf",
+                "year": 1999,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "7\"",
+                            "Misprint"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Me First And The Gimme Gimmes",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 10532194,
+                        "resource_url": "https://api.discogs.com/artists/10532194"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Lookout! Records",
+                        "catno": "LK219",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 33263,
+                        "resource_url": "https://api.discogs.com/labels/33263"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Punk"
+                ]
+            }
+        },
+        {
+            "id": 961852,
+            "instance_id": 1357288002,
+            "date_added": "2023-05-16T12:49:32-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 961852,
+                "master_id": 111365,
+                "master_url": "https://api.discogs.com/masters/111365",
+                "resource_url": "https://api.discogs.com/releases/961852",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Dead Star / In Your World",
+                "year": 2002,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "7\"",
+                            "45 RPM",
+                            "Single",
+                            "Limited Edition"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Muse",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1003,
+                        "resource_url": "https://api.discogs.com/artists/1003"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Mushroom",
+                        "catno": "MUSH104S",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 23489,
+                        "resource_url": "https://api.discogs.com/labels/23489"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 961851,
+            "instance_id": 1357285908,
+            "date_added": "2023-05-16T12:47:00-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 961851,
+                "master_id": 101602,
+                "master_url": "https://api.discogs.com/masters/101602",
+                "resource_url": "https://api.discogs.com/releases/961851",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Uno",
+                "year": 1999,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Clear",
+                        "descriptions": [
+                            "7\"",
+                            "Single"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Muse",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1003,
+                        "resource_url": "https://api.discogs.com/artists/1003"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Mushroom",
+                        "catno": "MUSH50S",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 23489,
+                        "resource_url": "https://api.discogs.com/labels/23489"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 1309818,
+            "instance_id": 1357285650,
+            "date_added": "2023-05-16T12:46:43-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1309818,
+                "master_id": 82506,
+                "master_url": "https://api.discogs.com/masters/82506",
+                "resource_url": "https://api.discogs.com/releases/1309818",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Cave",
+                "year": 1999,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Clear",
+                        "descriptions": [
+                            "7\"",
+                            "Single"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Muse",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1003,
+                        "resource_url": "https://api.discogs.com/artists/1003"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Mushroom",
+                        "catno": "MUSH58S",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 23489,
+                        "resource_url": "https://api.discogs.com/labels/23489"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 961849,
+            "instance_id": 1357286895,
+            "date_added": "2023-05-16T12:48:15-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 961849,
+                "master_id": 101605,
+                "master_url": "https://api.discogs.com/masters/101605",
+                "resource_url": "https://api.discogs.com/releases/961849",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Sunburn",
+                "year": 2000,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Clear",
+                        "descriptions": [
+                            "7\"",
+                            "Single",
+                            "Limited Edition"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Muse",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1003,
+                        "resource_url": "https://api.discogs.com/artists/1003"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Mushroom",
+                        "catno": "MUSH68S",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 23489,
+                        "resource_url": "https://api.discogs.com/labels/23489"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 957311,
+            "instance_id": 1357286682,
+            "date_added": "2023-05-16T12:47:58-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 957311,
+                "master_id": 111350,
+                "master_url": "https://api.discogs.com/masters/111350",
+                "resource_url": "https://api.discogs.com/releases/957311",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Unintended",
+                "year": 2000,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Clear",
+                        "descriptions": [
+                            "7\"",
+                            "Limited Edition"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Muse",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1003,
+                        "resource_url": "https://api.discogs.com/artists/1003"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Mushroom",
+                        "catno": "MUSH72S",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 23489,
+                        "resource_url": "https://api.discogs.com/labels/23489"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 961858,
+            "instance_id": 1357286328,
+            "date_added": "2023-05-16T12:47:33-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 961858,
+                "master_id": 101596,
+                "master_url": "https://api.discogs.com/masters/101596",
+                "resource_url": "https://api.discogs.com/releases/961858",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Muscle Museum",
+                "year": 2000,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "7\"",
+                            "Single",
+                            "Limited Edition"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Muse",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1003,
+                        "resource_url": "https://api.discogs.com/artists/1003"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Mushroom",
+                        "catno": "MUSH84S",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 23489,
+                        "resource_url": "https://api.discogs.com/labels/23489"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 524917,
+            "instance_id": 1357280484,
+            "date_added": "2023-05-16T12:40:36-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 524917,
+                "master_id": 111363,
+                "master_url": "https://api.discogs.com/masters/111363",
+                "resource_url": "https://api.discogs.com/releases/524917",
+                "thumb": "",
+                "cover_image": "",
+                "title": "New Born",
+                "year": 2001,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "7\"",
+                            "Single",
+                            "Limited Edition"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Muse",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1003,
+                        "resource_url": "https://api.discogs.com/artists/1003"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Mushroom",
+                        "catno": "MUSH92S",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 23489,
+                        "resource_url": "https://api.discogs.com/labels/23489"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 976007,
+            "instance_id": 1357287495,
+            "date_added": "2023-05-16T12:48:57-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 976007,
+                "master_id": 111356,
+                "master_url": "https://api.discogs.com/masters/111356",
+                "resource_url": "https://api.discogs.com/releases/976007",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Bliss",
+                "year": 2001,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "7\"",
+                            "Single"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Muse",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1003,
+                        "resource_url": "https://api.discogs.com/artists/1003"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Mushroom",
+                        "catno": "MUSH96S",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 23489,
+                        "resource_url": "https://api.discogs.com/labels/23489"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 515432,
+            "instance_id": 1357287810,
+            "date_added": "2023-05-16T12:49:17-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 515432,
+                "master_id": 111362,
+                "master_url": "https://api.discogs.com/masters/111362",
+                "resource_url": "https://api.discogs.com/releases/515432",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Hyper Music / Feeling Good",
+                "year": 2001,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "7\"",
+                            "Single",
+                            "Limited Edition",
+                            "Numbered"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Muse",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1003,
+                        "resource_url": "https://api.discogs.com/artists/1003"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Mushroom",
+                        "catno": "MUSH97S",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 23489,
+                        "resource_url": "https://api.discogs.com/labels/23489"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 1640442,
+            "instance_id": 1359736458,
+            "date_added": "2023-05-19T13:18:41-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1640442,
+                "master_id": 11001,
+                "master_url": "https://api.discogs.com/masters/11001",
+                "resource_url": "https://api.discogs.com/releases/1640442",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Showbiz",
+                "year": 1999,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "2",
+                        "text": "Gatefold, Clear",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Limited Edition",
+                            "Numbered"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Muse",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1003,
+                        "resource_url": "https://api.discogs.com/artists/1003"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Mushroom",
+                        "catno": "MUSH59LP",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 23489,
+                        "resource_url": "https://api.discogs.com/labels/23489"
+                    },
+                    {
+                        "name": "Taste Media Limited",
+                        "catno": "MUSH59LP",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 33360,
+                        "resource_url": "https://api.discogs.com/labels/33360"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 1867549,
+            "instance_id": 1357280157,
+            "date_added": "2023-05-16T12:40:15-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1867549,
+                "master_id": 111364,
+                "master_url": "https://api.discogs.com/masters/111364",
+                "resource_url": "https://api.discogs.com/releases/1867549",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Plug In Baby",
+                "year": 2001,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "7\"",
+                            "Single",
+                            "Limited Edition"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Muse",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1003,
+                        "resource_url": "https://api.discogs.com/artists/1003"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Mushroom",
+                        "catno": "MUSH89S",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 23489,
+                        "resource_url": "https://api.discogs.com/labels/23489"
+                    },
+                    {
+                        "name": "Taste Media Limited",
+                        "catno": "MUSH89S",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 33360,
+                        "resource_url": "https://api.discogs.com/labels/33360"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 2620420,
+            "instance_id": 1357345467,
+            "date_added": "2023-05-16T14:07:33-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 2620420,
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/2620420",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Stevens",
+                "year": 2001,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Blue Marble",
+                        "descriptions": [
+                            "7\"",
+                            "33 ⅓ RPM",
+                            "Single",
+                            "Limited Edition"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Me First And The Gimme Gimmes",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 10532194,
+                        "resource_url": "https://api.discogs.com/artists/10532194"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Nitro Records",
+                        "catno": "NR-15841",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 41643,
+                        "resource_url": "https://api.discogs.com/labels/41643"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Punk"
+                ]
+            }
+        },
+        {
+            "id": 3240029,
+            "instance_id": 1357342746,
+            "date_added": "2023-05-16T14:03:13-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 3240029,
+                "master_id": 409489,
+                "master_url": "https://api.discogs.com/masters/409489",
+                "resource_url": "https://api.discogs.com/releases/3240029",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Stevie",
+                "year": 2003,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Pink",
+                        "descriptions": [
+                            "7\"",
+                            "Single"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Me First And The Gimme Gimmes",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 10532194,
+                        "resource_url": "https://api.discogs.com/artists/10532194"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "No Idea Records",
+                        "catno": "NIR148",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 33337,
+                        "resource_url": "https://api.discogs.com/labels/33337"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Punk"
+                ]
+            }
+        },
+        {
+            "id": 24877952,
+            "instance_id": 1357374405,
+            "date_added": "2023-05-16T14:51:09-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 24877952,
+                "master_id": 11811,
+                "master_url": "https://api.discogs.com/masters/11811",
+                "resource_url": "https://api.discogs.com/releases/24877952",
+                "thumb": "",
+                "cover_image": "",
+                "title": "As Heard On Radio Soulwax Pt.2",
+                "year": 2022,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "2",
+                        "text": "Gatefold",
+                        "descriptions": [
+                            "LP",
+                            "Mixed",
+                            "Reissue",
+                            "Repress"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "2 Many DJ's",
+                        "anv": "2manydjs",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 48919,
+                        "resource_url": "https://api.discogs.com/artists/48919"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Play It Again Sam",
+                        "catno": "PIASR565DLPR",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 26215,
+                        "resource_url": "https://api.discogs.com/labels/26215"
+                    }
+                ],
+                "genres": [
+                    "Electronic",
+                    "Rock",
+                    "Pop"
+                ],
+                "styles": [
+                    "House",
+                    "Electro"
+                ]
+            }
+        },
+        {
+            "id": 16172755,
+            "instance_id": 1357380006,
+            "date_added": "2023-05-16T14:59:51-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 16172755,
+                "master_id": 724992,
+                "master_url": "https://api.discogs.com/masters/724992",
+                "resource_url": "https://api.discogs.com/releases/16172755",
+                "thumb": "",
+                "cover_image": "",
+                "title": "The Black Parade",
+                "year": 2020,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP"
+                        ]
+                    },
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Single Sided",
+                            "Etched"
+                        ]
+                    },
+                    {
+                        "name": "All Media",
+                        "qty": "1",
+                        "text": "Clear With Black Smoke",
+                        "descriptions": [
+                            "Album",
+                            "Reissue"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "My Chemical Romance",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 319406,
+                        "resource_url": "https://api.discogs.com/artists/319406"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Reprise Records",
+                        "catno": "093624933595",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 157,
+                        "resource_url": "https://api.discogs.com/labels/157"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Emo",
+                    "Alternative Rock",
+                    "Pop Rock",
+                    "Punk"
+                ]
+            }
+        },
+        {
+            "id": 16153203,
+            "instance_id": 1357378284,
+            "date_added": "2023-05-16T14:57:23-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 16153203,
+                "master_id": 729401,
+                "master_url": "https://api.discogs.com/masters/729401",
+                "resource_url": "https://api.discogs.com/releases/16153203",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Three Cheers For Sweet Revenge",
+                "year": 2020,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Red [Oxblood]",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Reissue",
+                            "Repress"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "My Chemical Romance",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 319406,
+                        "resource_url": "https://api.discogs.com/artists/319406"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Reprise Records",
+                        "catno": "1-545465",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 157,
+                        "resource_url": "https://api.discogs.com/labels/157"
+                    },
+                    {
+                        "name": "Eyeball Records",
+                        "catno": "1-545465",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 34495,
+                        "resource_url": "https://api.discogs.com/labels/34495"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Emo",
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 1203470,
+            "instance_id": 1379753640,
+            "date_added": "2023-06-12T12:52:55-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1203470,
+                "master_id": 33161,
+                "master_url": "https://api.discogs.com/masters/33161",
+                "resource_url": "https://api.discogs.com/releases/1203470",
+                "thumb": "",
+                "cover_image": "",
+                "title": "American Idiot",
+                "year": 2004,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "2",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Green Day",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 251593,
+                        "resource_url": "https://api.discogs.com/artists/251593"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Reprise Records",
+                        "catno": "9362-48777-1",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 157,
+                        "resource_url": "https://api.discogs.com/labels/157"
+                    },
+                    {
+                        "name": "Reprise Records",
+                        "catno": "48777-1",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 157,
+                        "resource_url": "https://api.discogs.com/labels/157"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Punk",
+                    "Pop Rock",
+                    "Pop Punk"
+                ]
+            }
+        },
+        {
+            "id": 3375961,
+            "instance_id": 1379752602,
+            "date_added": "2023-06-12T12:51:45-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 3375961,
+                "master_id": 33170,
+                "master_url": "https://api.discogs.com/masters/33170",
+                "resource_url": "https://api.discogs.com/releases/3375961",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Dookie",
+                "year": 2008,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Reissue"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Green Day",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 251593,
+                        "resource_url": "https://api.discogs.com/artists/251593"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Reprise Records",
+                        "catno": "9362-49869-5",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 157,
+                        "resource_url": "https://api.discogs.com/labels/157"
+                    },
+                    {
+                        "name": "Reprise Records",
+                        "catno": "1-468284 (K1)",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 157,
+                        "resource_url": "https://api.discogs.com/labels/157"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Pop Punk",
+                    "Punk"
+                ]
+            }
+        },
+        {
+            "id": 19955041,
+            "instance_id": 1357380429,
+            "date_added": "2023-05-16T15:00:31-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 19955041,
+                "master_id": 2266555,
+                "master_url": "https://api.discogs.com/masters/2266555",
+                "resource_url": "https://api.discogs.com/releases/19955041",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Glow On",
+                "year": 2021,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Turnstile (2)",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 2921052,
+                        "resource_url": "https://api.discogs.com/artists/2921052"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Roadrunner Records",
+                        "catno": "1-654153",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 34268,
+                        "resource_url": "https://api.discogs.com/labels/34268"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Hardcore",
+                    "Alternative Rock",
+                    "Post-Hardcore",
+                    "Shoegaze",
+                    "Indie Rock"
+                ]
+            }
+        },
+        {
+            "id": 26030932,
+            "instance_id": 1379758512,
+            "date_added": "2023-06-12T12:58:34-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 26030932,
+                "master_id": 322166,
+                "master_url": "https://api.discogs.com/masters/322166",
+                "resource_url": "https://api.discogs.com/releases/26030932",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Live (New York City 1988)",
+                "year": 2022,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Yellow/Red Splatter, 180gr",
+                        "descriptions": [
+                            "LP",
+                            "Reissue",
+                            "Unofficial Release"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Guns N' Roses",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 124535,
+                        "resource_url": "https://api.discogs.com/artists/124535"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Second Records",
+                        "catno": "SRFM0017",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 93633,
+                        "resource_url": "https://api.discogs.com/labels/93633"
+                    },
+                    {
+                        "name": "Second Records",
+                        "catno": "SRFM0017SP",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 93633,
+                        "resource_url": "https://api.discogs.com/labels/93633"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Hard Rock",
+                    "Heavy Metal",
+                    "Blues Rock"
+                ]
+            }
+        },
+        {
+            "id": 27118098,
+            "instance_id": 1362053889,
+            "date_added": "2023-05-22T02:23:46-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 27118098,
+                "master_id": 3101010,
+                "master_url": "https://api.discogs.com/masters/3101010",
+                "resource_url": "https://api.discogs.com/releases/27118098",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Take Me Back To Eden",
+                "year": 2023,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "2",
+                        "text": "Gold",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Sleep Token",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 5471025,
+                        "resource_url": "https://api.discogs.com/artists/5471025"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Spinefarm Records",
+                        "catno": "SPINE800083P",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 38986,
+                        "resource_url": "https://api.discogs.com/labels/38986"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Progressive Metal"
+                ]
+            }
+        },
+        {
+            "id": 614661,
+            "instance_id": 1357288707,
+            "date_added": "2023-05-16T12:50:17-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 614661,
+                "master_id": 111367,
+                "master_url": "https://api.discogs.com/masters/111367",
+                "resource_url": "https://api.discogs.com/releases/614661",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Hysteria",
+                "year": 2003,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Clear",
+                        "descriptions": [
+                            "7\"",
+                            "33 ⅓ RPM",
+                            "45 RPM",
+                            "Single",
+                            "Limited Edition",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Muse",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1003,
+                        "resource_url": "https://api.discogs.com/artists/1003"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Taste Media Limited",
+                        "catno": "5050466 9736 7 2",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 33360,
+                        "resource_url": "https://api.discogs.com/labels/33360"
+                    },
+                    {
+                        "name": "EastWest",
+                        "catno": "EW278",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 999,
+                        "resource_url": "https://api.discogs.com/labels/999"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 560000,
+            "instance_id": 1357289229,
+            "date_added": "2023-05-16T12:50:56-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 560000,
+                "master_id": 111374,
+                "master_url": "https://api.discogs.com/masters/111374",
+                "resource_url": "https://api.discogs.com/releases/560000",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Sing For Absolution",
+                "year": 2004,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Clear",
+                        "descriptions": [
+                            "7\"",
+                            "33 ⅓ RPM",
+                            "Limited Edition"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Muse",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1003,
+                        "resource_url": "https://api.discogs.com/artists/1003"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Taste Media Limited",
+                        "catno": "5050467-2173-7-9",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 33360,
+                        "resource_url": "https://api.discogs.com/labels/33360"
+                    },
+                    {
+                        "name": "EastWest",
+                        "catno": "5050467-2173-7-9",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 999,
+                        "resource_url": "https://api.discogs.com/labels/999"
+                    },
+                    {
+                        "name": "EastWest",
+                        "catno": "EW285",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 999,
+                        "resource_url": "https://api.discogs.com/labels/999"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock"
+                ]
+            }
+        },
+        {
+            "id": 26820938,
+            "instance_id": 1357380651,
+            "date_added": "2023-05-16T15:00:51-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 26820938,
+                "master_id": 10341,
+                "master_url": "https://api.discogs.com/masters/10341",
+                "resource_url": "https://api.discogs.com/releases/26820938",
+                "thumb": "",
+                "cover_image": "",
+                "title": "Elephant",
+                "year": 2023,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Red w/ Black Smoke",
+                        "descriptions": [
+                            "LP",
+                            "Stereo"
+                        ]
+                    },
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Clear w/ Red & Black Smoke",
+                        "descriptions": [
+                            "LP",
+                            "Stereo"
+                        ]
+                    },
+                    {
+                        "name": "All Media",
+                        "qty": "1",
+                        "text": "20th Anniversary Edition",
+                        "descriptions": [
+                            "Album",
+                            "Limited Edition",
+                            "Reissue"
+                        ]
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "The White Stripes",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 116345,
+                        "resource_url": "https://api.discogs.com/artists/116345"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Third Man Records",
+                        "catno": "TMR200",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 89238,
+                        "resource_url": "https://api.discogs.com/labels/89238"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Alternative Rock",
+                    "Blues Rock",
+                    "Garage Rock"
+                ]
+            }
+        }
+    ]
+}

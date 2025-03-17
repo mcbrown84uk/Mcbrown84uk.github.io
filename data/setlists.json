@@ -1,0 +1,2276 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 20,
+    "setlist": [
+        {
+            "id": "3bab8ca8",
+            "versionId": "g4354cf3f",
+            "eventDate": "25-08-2024",
+            "lastUpdated": "2024-10-22T22:33:25.572+0000",
+            "artist": {
+                "mbid": "892500b7-09a6-4049-ba92-2d192dd70563",
+                "name": "Biffy Clyro",
+                "sortName": "Biffy Clyro",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/biffy-clyro-13d6bdf9.html"
+            },
+            "venue": {
+                "id": "4bd70f3e",
+                "name": "Southsea Common",
+                "city": {
+                    "id": "2639996",
+                    "name": "Portsmouth",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 50.8090805768295,
+                        "long": -1.07142448425293
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/southsea-common-portsmouth-england-4bd70f3e.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "The Captain",
+                                "info": "With sparklers"
+                            },
+                            {
+                                "name": "That Golden Rule"
+                            },
+                            {
+                                "name": "Who's Got a Match?"
+                            },
+                            {
+                                "name": "Re-Arrange"
+                            },
+                            {
+                                "name": "Born on a Horse"
+                            },
+                            {
+                                "name": "Biblical"
+                            },
+                            {
+                                "name": "Different People"
+                            },
+                            {
+                                "name": "A Hunger in Your Haunt"
+                            },
+                            {
+                                "name": "9/15ths"
+                            },
+                            {
+                                "name": "Animal Style"
+                            },
+                            {
+                                "name": "Black Chandelier"
+                            },
+                            {
+                                "name": "Instant History"
+                            },
+                            {
+                                "name": "End Of"
+                            },
+                            {
+                                "name": "Saturday Superhouse"
+                            },
+                            {
+                                "name": "Space"
+                            },
+                            {
+                                "name": "Living Is a Problem Because Everything Dies"
+                            },
+                            {
+                                "name": "Mountains"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Machines"
+                            },
+                            {
+                                "name": "Wolves of Winter"
+                            },
+                            {
+                                "name": "Bubbles"
+                            },
+                            {
+                                "name": "Many of Horror",
+                                "info": "With sparklers & fireworks"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/biffy-clyro/2024/southsea-common-portsmouth-england-3bab8ca8.html"
+        },
+        {
+            "id": "bb7313e",
+            "versionId": "g6bc9b602",
+            "eventDate": "16-05-2022",
+            "lastUpdated": "2022-05-17T13:13:24.880+0000",
+            "artist": {
+                "mbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
+                "name": "My Chemical Romance",
+                "sortName": "My Chemical Romance",
+                "disambiguation": "US rock band",
+                "url": "https://www.setlist.fm/setlists/my-chemical-romance-3bd6bcd4.html"
+            },
+            "venue": {
+                "id": "63d6ced3",
+                "name": "The Eden Project",
+                "city": {
+                    "id": "2638853",
+                    "name": "St Austell",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 50.3383333,
+                        "long": -4.7658333
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/the-eden-project-st-austell-england-63d6ced3.html"
+            },
+            "tour": {
+                "name": "Reunion Tour"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "The Foundations of Decay",
+                                "info": "Live debut"
+                            },
+                            {
+                                "name": "Helena"
+                            },
+                            {
+                                "name": "Give 'Em Hell, Kid"
+                            },
+                            {
+                                "name": "Make Room!!!!"
+                            },
+                            {
+                                "name": "Summertime"
+                            },
+                            {
+                                "name": "This Is How I Disappear",
+                                "info": "First time live since 2010"
+                            },
+                            {
+                                "name": "You Know What They Do to Guys Like Us in Prison"
+                            },
+                            {
+                                "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)"
+                            },
+                            {
+                                "name": "Famous Last Words"
+                            },
+                            {
+                                "name": "Surrender the Night",
+                                "info": "Live debut"
+                            },
+                            {
+                                "name": "Teenagers"
+                            },
+                            {
+                                "name": "DESTROYA"
+                            },
+                            {
+                                "name": "Our Lady of Sorrows"
+                            },
+                            {
+                                "name": "Vampire Money"
+                            },
+                            {
+                                "name": "Thank You for the Venom"
+                            },
+                            {
+                                "name": "Mama"
+                            },
+                            {
+                                "name": "Welcome to the Black Parade"
+                            },
+                            {
+                                "name": "Sleep"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Boy Division",
+                                "info": "Live debut"
+                            },
+                            {
+                                "name": "I'm Not Okay (I Promise)"
+                            },
+                            {
+                                "name": "The Kids From Yesterday"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "info": "Soundcheck: \"This Is How I Disappear\", \"Surrender the Night\", \"Give 'Em Hell, Kid\", \"The Foundations of Decay\", \"Kiss the Ring\", \"Mastas of Ravenkroft\", and \"Make Room!!!!\". \"Bulletproof Heart\" and \"I Don't Love You\" were on the setlist, but not played.",
+            "url": "https://www.setlist.fm/setlist/my-chemical-romance/2022/the-eden-project-st-austell-england-bb7313e.html"
+        },
+        {
+            "id": "4bb7a766",
+            "versionId": "g53e4bb01",
+            "eventDate": "04-05-2022",
+            "lastUpdated": "2022-11-13T11:09:31.076+0000",
+            "artist": {
+                "mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
+                "name": "Tool",
+                "sortName": "Tool",
+                "disambiguation": "American rock band",
+                "url": "https://www.setlist.fm/setlists/tool-2bd6d836.html"
+            },
+            "venue": {
+                "id": "53d247fd",
+                "name": "Resorts World Arena",
+                "city": {
+                    "id": "2655603",
+                    "name": "Birmingham",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 52.4666667,
+                        "long": -1.9166667
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/resorts-world-arena-birmingham-england-53d247fd.html"
+            },
+            "tour": {
+                "name": "Fear Inoculum 2nd Leg"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Litanie contre la Peur",
+                                "tape": true
+                            },
+                            {
+                                "name": "Fear Inoculum"
+                            },
+                            {
+                                "name": "Sober"
+                            },
+                            {
+                                "name": "The Pot"
+                            },
+                            {
+                                "name": "Pushit"
+                            },
+                            {
+                                "name": "Pneuma"
+                            },
+                            {
+                                "name": "The Grudge"
+                            },
+                            {
+                                "name": "Right in Two"
+                            },
+                            {
+                                "name": "Descending"
+                            },
+                            {
+                                "name": "Hooker With a Penis"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Intermission",
+                        "song": [
+                            {
+                                "name": "Chocolate Chip Trip"
+                            },
+                            {
+                                "name": "Culling Voices"
+                            },
+                            {
+                                "name": "Invincible",
+                                "info": "Maynard invites everyone to film this song if they want."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/tool/2022/resorts-world-arena-birmingham-england-4bb7a766.html"
+        },
+        {
+            "id": "53f8f7d1",
+            "versionId": "g1bb1dd60",
+            "eventDate": "22-01-2017",
+            "lastUpdated": "2024-03-31T20:11:12.685+0000",
+            "artist": {
+                "mbid": "24e1b53c-3085-4581-8472-0b0088d2508c",
+                "name": "Avenged Sevenfold",
+                "sortName": "Avenged Sevenfold",
+                "disambiguation": "American heavy metal / metalcore / hard rock band",
+                "url": "https://www.setlist.fm/setlists/avenged-sevenfold-3d6d1a3.html"
+            },
+            "venue": {
+                "id": "73d466b5",
+                "name": "The O2 Arena",
+                "city": {
+                    "id": "2643743",
+                    "name": "London",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 51.5084152563931,
+                        "long": -0.125532746315002
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/the-o2-arena-london-england-73d466b5.html"
+            },
+            "tour": {
+                "name": "The Stage"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Rocket Man (I Think It's Going to Be a Long, Long Time)",
+                                "tape": true,
+                                "cover": {
+                                    "mbid": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+                                    "name": "Elton John",
+                                    "sortName": "John, Elton",
+                                    "disambiguation": "English singer, songwriter, pianist, and composer",
+                                    "url": "https://www.setlist.fm/setlists/elton-john-63d6be6f.html"
+                                }
+                            },
+                            {
+                                "name": "Space Oddity",
+                                "tape": true,
+                                "cover": {
+                                    "mbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+                                    "name": "David Bowie",
+                                    "sortName": "Bowie, David",
+                                    "disambiguation": "English singer‐songwriter",
+                                    "url": "https://www.setlist.fm/setlists/david-bowie-6bd6ee66.html"
+                                }
+                            },
+                            {
+                                "name": "The Stage",
+                                "info": "Recorded for \"The Stage (Deluxe Edition)\""
+                            },
+                            {
+                                "name": "Afterlife"
+                            },
+                            {
+                                "name": "Hail to the King"
+                            },
+                            {
+                                "name": "Paradigm",
+                                "info": "Recorded for \"The Stage (Deluxe Edition)\""
+                            },
+                            {
+                                "name": "To End the Rapture"
+                            },
+                            {
+                                "name": "Second Heartbeat",
+                                "info": "Tour debut"
+                            },
+                            {
+                                "name": "Buried Alive"
+                            },
+                            {
+                                "name": "So Far Away",
+                                "info": "Tour debut; Dedicated to Jimmy 'The Rev' Sullivan"
+                            },
+                            {
+                                "name": "Nightmare",
+                                "info": "Followed by Brooks Wackerman Drum Solo"
+                            },
+                            {
+                                "name": "God Damn"
+                            },
+                            {
+                                "name": "Beast and the Harlot",
+                                "info": "Tour debut"
+                            },
+                            {
+                                "name": "Sunny Disposition",
+                                "info": "Recorded for \"The Stage (Deluxe Edition)\""
+                            },
+                            {
+                                "name": "Drum Solo"
+                            },
+                            {
+                                "name": "Warmness on the Soul",
+                                "info": "Instrumental"
+                            },
+                            {
+                                "name": "Planets"
+                            },
+                            {
+                                "name": "Acid Rain"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Bat Country"
+                            },
+                            {
+                                "name": "A Little Piece of Heaven"
+                            },
+                            {
+                                "name": "Unholy Confessions"
+                            },
+                            {
+                                "name": "A Day in the Life",
+                                "tape": true,
+                                "cover": {
+                                    "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                                    "name": "The Beatles",
+                                    "sortName": "Beatles, The",
+                                    "disambiguation": "UK rock band, “The Fab Four”",
+                                    "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/avenged-sevenfold/2017/the-o2-arena-london-england-53f8f7d1.html"
+        },
+        {
+            "id": "2bcf481a",
+            "versionId": "1b34a174",
+            "eventDate": "03-10-2014",
+            "lastUpdated": "2020-01-31T23:59:56.859+0000",
+            "artist": {
+                "mbid": "5e5480be-eded-44ad-9c45-f6136ec2f5db",
+                "name": "Reel Big Fish",
+                "sortName": "Reel Big Fish",
+                "disambiguation": "California ska punk band",
+                "url": "https://www.setlist.fm/setlists/reel-big-fish-63d68a2b.html"
+            },
+            "venue": {
+                "id": "3bd4b048",
+                "name": "Fremont Country Club",
+                "city": {
+                    "id": "5506956",
+                    "name": "Las Vegas",
+                    "state": "Nevada",
+                    "stateCode": "NV",
+                    "coords": {
+                        "lat": 36.1749705,
+                        "long": -115.137223
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/fremont-country-club-las-vegas-nv-usa-3bd4b048.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Everything Sucks"
+                            },
+                            {
+                                "name": "I Want Your Girlfriend to Be My Girlfriend Too"
+                            },
+                            {
+                                "name": "She's Famous Now"
+                            },
+                            {
+                                "name": "241"
+                            },
+                            {
+                                "name": "Your Guts (I Hate 'Em)"
+                            },
+                            {
+                                "name": "Everyone Else Is an Asshole"
+                            },
+                            {
+                                "name": "Trendy"
+                            },
+                            {
+                                "name": "The Bad Guy"
+                            },
+                            {
+                                "name": "Ban the Tube Top"
+                            },
+                            {
+                                "name": "I Dare You to Break My Heart"
+                            },
+                            {
+                                "name": "Good Thing"
+                            },
+                            {
+                                "name": "I Know You Too Well to Like You Anymore"
+                            },
+                            {
+                                "name": "She Has a Girlfriend Now"
+                            },
+                            {
+                                "name": "Where Have You Been"
+                            },
+                            {
+                                "name": "Hiding in My Headphones"
+                            },
+                            {
+                                "name": "Beer"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Thank You for Not Moshing",
+                                "info": "with Self Esteem by The Offspring"
+                            },
+                            {
+                                "name": "Garden Grove",
+                                "cover": {
+                                    "mbid": "95f5b748-d370-47fe-85bd-0af2dc450bc0",
+                                    "name": "Sublime",
+                                    "sortName": "Sublime",
+                                    "disambiguation": "ska punk",
+                                    "url": "https://www.setlist.fm/setlists/sublime-3d689bb.html"
+                                }
+                            },
+                            {
+                                "name": "Take On Me",
+                                "cover": {
+                                    "mbid": "7364dea6-ca9a-48e3-be01-b44ad0d19897",
+                                    "name": "a‐ha",
+                                    "sortName": "a‐ha",
+                                    "disambiguation": "Norwegian synth‐pop band",
+                                    "url": "https://www.setlist.fm/setlists/aha-5bd6af8c.html"
+                                }
+                            },
+                            {
+                                "name": "Sell Out"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/reel-big-fish/2014/fremont-country-club-las-vegas-nv-2bcf481a.html"
+        },
+        {
+            "id": "3becb004",
+            "versionId": "b3dc936",
+            "eventDate": "02-10-2014",
+            "lastUpdated": "2020-05-17T21:39:46.894+0000",
+            "artist": {
+                "mbid": "6ba50c3f-a167-4d2a-9dec-5127edba2584",
+                "name": "Dry the River",
+                "sortName": "Dry the River",
+                "disambiguation": "Formerly known as Godwits",
+                "url": "https://www.setlist.fm/setlists/dry-the-river-3d44dfb.html"
+            },
+            "venue": {
+                "id": "53d29769",
+                "name": "Wedgewood Rooms",
+                "city": {
+                    "id": "2639996",
+                    "name": "Portsmouth",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 50.8090805768295,
+                        "long": -1.07142448425293
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/wedgewood-rooms-portsmouth-england-53d29769.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Hidden Hand"
+                            },
+                            {
+                                "name": "New Ceremony"
+                            },
+                            {
+                                "name": "Family"
+                            },
+                            {
+                                "name": "Alarms in the Heart"
+                            },
+                            {
+                                "name": "Gethsemane"
+                            },
+                            {
+                                "name": "Bible Belt"
+                            },
+                            {
+                                "name": "It Was Love That Laid Us Low"
+                            },
+                            {
+                                "name": "Lion's Den"
+                            },
+                            {
+                                "name": "Rollerskate"
+                            },
+                            {
+                                "name": "Vessel"
+                            },
+                            {
+                                "name": "Hope Diamond"
+                            },
+                            {
+                                "name": "No Rest"
+                            },
+                            {
+                                "name": "History Book"
+                            },
+                            {
+                                "name": "Shaker Hymns"
+                            },
+                            {
+                                "name": "Roman Candle"
+                            },
+                            {
+                                "name": "Weights & Measures"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/dry-the-river/2014/wedgewood-rooms-portsmouth-england-3becb004.html"
+        },
+        {
+            "id": "33cf106d",
+            "versionId": "7398a299",
+            "eventDate": "25-09-2014",
+            "lastUpdated": "2014-09-24T18:17:22.000+0000",
+            "artist": {
+                "mbid": "1916fc94-bf9c-4ba2-90b0-22ebb5444d57",
+                "name": "Temples",
+                "sortName": "Temples",
+                "disambiguation": "English pyschedelic rock band",
+                "url": "https://www.setlist.fm/setlists/temples-5bdce70c.html"
+            },
+            "venue": {
+                "id": "1bd74988",
+                "name": "The Fonda Theatre",
+                "city": {
+                    "id": "5368361",
+                    "name": "Los Angeles",
+                    "state": "California",
+                    "stateCode": "CA",
+                    "coords": {
+                        "lat": 34.052,
+                        "long": -118.244
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/the-fonda-theatre-los-angeles-ca-usa-1bd74988.html"
+            },
+            "sets": {
+                "set": []
+            },
+            "url": "https://www.setlist.fm/setlist/temples/2014/the-fonda-theatre-los-angeles-ca-33cf106d.html"
+        },
+        {
+            "id": "1bcf21c4",
+            "versionId": "g2bd860ba",
+            "eventDate": "23-09-2014",
+            "lastUpdated": "2021-10-02T07:06:31.085+0000",
+            "artist": {
+                "mbid": "7ce51ba7-91f4-46aa-a030-1e22aaa7510d",
+                "name": "Slash featuring Myles Kennedy and the Conspirators",
+                "sortName": "Slash featuring Myles Kennedy and the Conspirators",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/slash-featuring-myles-kennedy-and-the-conspirators-bdea922.html"
+            },
+            "venue": {
+                "id": "3bd6d81c",
+                "name": "Troubadour",
+                "city": {
+                    "id": "5408076",
+                    "name": "West Hollywood",
+                    "state": "California",
+                    "stateCode": "CA",
+                    "coords": {
+                        "lat": 34.0900091,
+                        "long": -118.3617443
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/troubadour-west-hollywood-ca-usa-3bd6d81c.html"
+            },
+            "tour": {
+                "name": "World on Fire"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "You're a Lie"
+                            },
+                            {
+                                "name": "Nightrain",
+                                "cover": {
+                                    "mbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+                                    "name": "Guns N’ Roses",
+                                    "sortName": "Guns N’ Roses",
+                                    "disambiguation": "American hard rock band from Los Angeles",
+                                    "url": "https://www.setlist.fm/setlists/guns-n-roses-7bd69e24.html"
+                                }
+                            },
+                            {
+                                "name": "Halo"
+                            },
+                            {
+                                "name": "Standing in the Sun"
+                            },
+                            {
+                                "name": "Back From Cali",
+                                "cover": {
+                                    "mbid": "5e7a7026-dfc5-4aba-8496-95140716f3db",
+                                    "name": "Slash",
+                                    "sortName": "Slash",
+                                    "disambiguation": "Guns N’ Roses guitarist",
+                                    "url": "https://www.setlist.fm/setlists/slash-6bd6aeca.html"
+                                }
+                            },
+                            {
+                                "name": "Stone Blind"
+                            },
+                            {
+                                "name": "You Could Be Mine",
+                                "cover": {
+                                    "mbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+                                    "name": "Guns N’ Roses",
+                                    "sortName": "Guns N’ Roses",
+                                    "disambiguation": "American hard rock band from Los Angeles",
+                                    "url": "https://www.setlist.fm/setlists/guns-n-roses-7bd69e24.html"
+                                }
+                            },
+                            {
+                                "name": "Doctor Alibi",
+                                "cover": {
+                                    "mbid": "5e7a7026-dfc5-4aba-8496-95140716f3db",
+                                    "name": "Slash",
+                                    "sortName": "Slash",
+                                    "disambiguation": "Guns N’ Roses guitarist",
+                                    "url": "https://www.setlist.fm/setlists/slash-6bd6aeca.html"
+                                },
+                                "info": "Todd Kerns on lead vocals"
+                            },
+                            {
+                                "name": "Out ta Get Me",
+                                "cover": {
+                                    "mbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+                                    "name": "Guns N’ Roses",
+                                    "sortName": "Guns N’ Roses",
+                                    "disambiguation": "American hard rock band from Los Angeles",
+                                    "url": "https://www.setlist.fm/setlists/guns-n-roses-7bd69e24.html"
+                                },
+                                "info": "Todd Kerns on lead vocals"
+                            },
+                            {
+                                "name": "Wicked Stone",
+                                "info": "Live premiere"
+                            },
+                            {
+                                "name": "30 Years to Life"
+                            },
+                            {
+                                "name": "Rocket Queen",
+                                "cover": {
+                                    "mbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+                                    "name": "Guns N’ Roses",
+                                    "sortName": "Guns N’ Roses",
+                                    "disambiguation": "American hard rock band from Los Angeles",
+                                    "url": "https://www.setlist.fm/setlists/guns-n-roses-7bd69e24.html"
+                                }
+                            },
+                            {
+                                "name": "Bent to Fly"
+                            },
+                            {
+                                "name": "Starlight",
+                                "cover": {
+                                    "mbid": "5e7a7026-dfc5-4aba-8496-95140716f3db",
+                                    "name": "Slash",
+                                    "sortName": "Slash",
+                                    "disambiguation": "Guns N’ Roses guitarist",
+                                    "url": "https://www.setlist.fm/setlists/slash-6bd6aeca.html"
+                                }
+                            },
+                            {
+                                "name": "World on Fire"
+                            },
+                            {
+                                "name": "Anastasia"
+                            },
+                            {
+                                "name": "By the Sword",
+                                "cover": {
+                                    "mbid": "5e7a7026-dfc5-4aba-8496-95140716f3db",
+                                    "name": "Slash",
+                                    "sortName": "Slash",
+                                    "disambiguation": "Guns N’ Roses guitarist",
+                                    "url": "https://www.setlist.fm/setlists/slash-6bd6aeca.html"
+                                }
+                            },
+                            {
+                                "name": "Sweet Child o' Mine",
+                                "cover": {
+                                    "mbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+                                    "name": "Guns N’ Roses",
+                                    "sortName": "Guns N’ Roses",
+                                    "disambiguation": "American hard rock band from Los Angeles",
+                                    "url": "https://www.setlist.fm/setlists/guns-n-roses-7bd69e24.html"
+                                }
+                            },
+                            {
+                                "name": "Slither",
+                                "cover": {
+                                    "mbid": "3a528006-1429-47f4-ae9b-2ea95343e16a",
+                                    "name": "Velvet Revolver",
+                                    "sortName": "Velvet Revolver",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/velvet-revolver-13d689ad.html"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Paradise City",
+                                "cover": {
+                                    "mbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+                                    "name": "Guns N’ Roses",
+                                    "sortName": "Guns N’ Roses",
+                                    "disambiguation": "American hard rock band from Los Angeles",
+                                    "url": "https://www.setlist.fm/setlists/guns-n-roses-7bd69e24.html"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/slash-featuring-myles-kennedy-and-the-conspirators/2014/troubadour-west-hollywood-ca-1bcf21c4.html"
+        },
+        {
+            "id": "2bc2a882",
+            "versionId": "g4ba3c7f6",
+            "eventDate": "28-02-2014",
+            "lastUpdated": "2024-07-16T10:45:14.876+0000",
+            "artist": {
+                "mbid": "9478e346-7c52-4780-9555-3d1577f0b905",
+                "name": "Me First and the Gimme Gimmes",
+                "sortName": "Me First and the Gimme Gimmes",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/me-first-and-the-gimme-gimmes-13d6dd39.html"
+            },
+            "venue": {
+                "id": "13d739e5",
+                "name": "O2 Shepherd's Bush Empire",
+                "city": {
+                    "id": "2643743",
+                    "name": "London",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 51.5084152563931,
+                        "long": -0.125532746315002
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/o2-shepherds-bush-empire-london-england-13d739e5.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "I Will Survive",
+                                "cover": {
+                                    "mbid": "d5c51c36-ac67-4727-91ed-ee9f0df81a2d",
+                                    "name": "Gloria Gaynor",
+                                    "sortName": "Gaynor, Gloria",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/gloria-gaynor-7bd6bef4.html"
+                                }
+                            },
+                            {
+                                "name": "Danny's Song",
+                                "cover": {
+                                    "mbid": "5717a3f5-cdb2-4bb9-afd3-7c8f66eb3307",
+                                    "name": "Gator Creek",
+                                    "sortName": "Gator Creek",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/gator-creek-33c2ac91.html"
+                                }
+                            },
+                            {
+                                "name": "Leaving on a Jet Plane",
+                                "cover": {
+                                    "mbid": "34e10b51-b5c6-4bc1-b70e-f05f141eda1e",
+                                    "name": "John Denver",
+                                    "sortName": "Denver, John",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/john-denver-53d6739d.html"
+                                }
+                            },
+                            {
+                                "name": "Sloop John B",
+                                "cover": {
+                                    "mbid": "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                                    "name": "[traditional]",
+                                    "sortName": "[traditional]",
+                                    "disambiguation": "special purpose artist",
+                                    "url": "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+                                }
+                            },
+                            {
+                                "name": "Me and Julio Down by the Schoolyard",
+                                "cover": {
+                                    "mbid": "05517043-ff78-4988-9c22-88c68588ebb9",
+                                    "name": "Paul Simon",
+                                    "sortName": "Simon, Paul",
+                                    "disambiguation": "of Simon & Garfunkel",
+                                    "url": "https://www.setlist.fm/setlists/paul-simon-5bd6e3a8.html"
+                                }
+                            },
+                            {
+                                "name": "Who Put the Bomp (in the Bomp, Bomp, Bomp)",
+                                "cover": {
+                                    "mbid": "6a231fdd-160e-40bc-bcd1-76da3c569a3c",
+                                    "name": "Barry Mann",
+                                    "sortName": "Mann, Barry",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/barry-mann-43d64fa7.html"
+                                }
+                            },
+                            {
+                                "name": "Science Fiction/Double Feature",
+                                "cover": {
+                                    "mbid": "ff693144-69be-4ec5-9150-cb3c5652e430",
+                                    "name": "Richard O’Brien",
+                                    "sortName": "O’Brien, Richard",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/richard-obrien-6bd60a6a.html"
+                                }
+                            },
+                            {
+                                "name": "Have You Never Been Mellow",
+                                "cover": {
+                                    "mbid": "10ccb5d8-f9d5-4954-9441-3419b522a214",
+                                    "name": "Olivia Newton‐John",
+                                    "sortName": "Newton‐John, Olivia",
+                                    "disambiguation": "British‐Australian singer, actress and activist",
+                                    "url": "https://www.setlist.fm/setlists/olivia-newtonjohn-4bd62fe6.html"
+                                }
+                            },
+                            {
+                                "name": "Jolene",
+                                "cover": {
+                                    "mbid": "1d543e07-d0d2-4834-a8db-d65c50c2a856",
+                                    "name": "Dolly Parton",
+                                    "sortName": "Parton, Dolly",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/dolly-parton-4bd6e7ae.html"
+                                }
+                            },
+                            {
+                                "name": "Riders in the Sky",
+                                "cover": {
+                                    "mbid": "0a3532f3-b4ff-418e-bc46-6a6321912be1",
+                                    "name": "Stan Jones and his Death Valley Rangers",
+                                    "sortName": "Jones, Stan and his Death Valley Rangers",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/stan-jones-and-his-death-valley-rangers-3db3de3.html"
+                                }
+                            },
+                            {
+                                "name": "Straight Up",
+                                "cover": {
+                                    "mbid": "275d1fca-22e8-46b9-85e6-c3523098a599",
+                                    "name": "Paula Abdul",
+                                    "sortName": "Abdul, Paula",
+                                    "disambiguation": "American singer",
+                                    "url": "https://www.setlist.fm/setlists/paula-abdul-3d6b9db.html"
+                                }
+                            },
+                            {
+                                "name": "Nobody Does It Better",
+                                "cover": {
+                                    "mbid": "c4df30f5-5487-4806-9189-b69c9f27532c",
+                                    "name": "Carly Simon",
+                                    "sortName": "Simon, Carly",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/carly-simon-63d6b2d7.html"
+                                }
+                            },
+                            {
+                                "name": "Summertime",
+                                "cover": {
+                                    "mbid": "65744963-191a-44ef-a3c7-b693a808a158",
+                                    "name": "George Gershwin",
+                                    "sortName": "Gershwin, George",
+                                    "disambiguation": "composer",
+                                    "url": "https://www.setlist.fm/setlists/george-gershwin-7bd64678.html"
+                                }
+                            },
+                            {
+                                "name": "Over the Rainbow",
+                                "cover": {
+                                    "mbid": "3508f3fd-3b18-493c-a362-376736bb6cde",
+                                    "name": "Harold Arlen",
+                                    "sortName": "Arlen, Harold",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/harold-arlen-bd649ce.html"
+                                }
+                            },
+                            {
+                                "name": "Isn't She Lovely",
+                                "cover": {
+                                    "mbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+                                    "name": "Stevie Wonder",
+                                    "sortName": "Wonder, Stevie",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/stevie-wonder-13d6b955.html"
+                                }
+                            },
+                            {
+                                "name": "Crazy for You",
+                                "cover": {
+                                    "mbid": "79239441-bfd5-4981-a70c-55c3f15c1287",
+                                    "name": "Madonna",
+                                    "sortName": "Madonna",
+                                    "disambiguation": "“Queen of Pop”",
+                                    "url": "https://www.setlist.fm/setlists/madonna-bd6bdbe.html"
+                                }
+                            },
+                            {
+                                "name": "I Believe I Can Fly",
+                                "cover": {
+                                    "mbid": "c2d25856-a09a-4d15-b404-77dd19c19e63",
+                                    "name": "R. Kelly",
+                                    "sortName": "Kelly, R.",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/r-kelly-2bd6bc2e.html"
+                                }
+                            },
+                            {
+                                "name": "All My Loving",
+                                "cover": {
+                                    "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                                    "name": "The Beatles",
+                                    "sortName": "Beatles, The",
+                                    "disambiguation": "UK rock band, “The Fab Four”",
+                                    "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                                }
+                            },
+                            {
+                                "name": "Different Drum",
+                                "cover": {
+                                    "mbid": "9c4df1e9-6092-4862-b493-0b72262d91c8",
+                                    "name": "Michael Nesmith",
+                                    "sortName": "Nesmith, Michael",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/michael-nesmith-1bd671e4.html"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Needles and Pins",
+                                "cover": {
+                                    "mbid": "194e5e92-0f2d-4d81-b5b9-c5f18d9edd59",
+                                    "name": "Jackie DeShannon",
+                                    "sortName": "DeShannon, Jackie",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/jackie-deshannon-13d6cd95.html"
+                                }
+                            },
+                            {
+                                "name": "Take Me Home, Country Roads",
+                                "cover": {
+                                    "mbid": "34e10b51-b5c6-4bc1-b70e-f05f141eda1e",
+                                    "name": "John Denver",
+                                    "sortName": "Denver, John",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/john-denver-53d6739d.html"
+                                }
+                            },
+                            {
+                                "name": "Rocket Man (I Think It's Going to Be a Long, Long Time)",
+                                "cover": {
+                                    "mbid": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+                                    "name": "Elton John",
+                                    "sortName": "John, Elton",
+                                    "disambiguation": "English singer, songwriter, pianist, and composer",
+                                    "url": "https://www.setlist.fm/setlists/elton-john-63d6be6f.html"
+                                }
+                            },
+                            {
+                                "name": "End of the Road",
+                                "cover": {
+                                    "mbid": "b42eca0f-9381-43db-badb-1cba080a7dc2",
+                                    "name": "Boyz II Men",
+                                    "sortName": "Boyz II Men",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/boyz-ii-men-63d6b2b7.html"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/me-first-and-the-gimme-gimmes/2014/o2-shepherds-bush-empire-london-england-2bc2a882.html"
+        },
+        {
+            "id": "2bd6e492",
+            "versionId": "4325bb37",
+            "eventDate": "12-04-2008",
+            "lastUpdated": "2020-09-06T08:05:54.865+0000",
+            "artist": {
+                "mbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sortName": "Muse",
+                "disambiguation": "UK rock band",
+                "url": "https://www.setlist.fm/setlists/muse-53d6ebd5.html"
+            },
+            "venue": {
+                "id": "53d63779",
+                "name": "Royal Albert Hall",
+                "city": {
+                    "id": "2643743",
+                    "name": "London",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 51.5084152563931,
+                        "long": -0.125532746315002
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/royal-albert-hall-london-england-53d63779.html"
+            },
+            "tour": {
+                "name": "Black Holes and Revelations"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Take a Bow"
+                            },
+                            {
+                                "name": "Map of the Problematique",
+                                "info": "Who Knows Who outro"
+                            },
+                            {
+                                "name": "Supermassive Black Hole"
+                            },
+                            {
+                                "name": "New Born",
+                                "info": "Headup + Ashamed outro"
+                            },
+                            {
+                                "name": "Butterflies & Hurricanes"
+                            },
+                            {
+                                "name": "Fury",
+                                "info": "First time in the UK"
+                            },
+                            {
+                                "name": "Feeling Good",
+                                "cover": {
+                                    "mbid": "9a93190b-3e24-4586-bc10-aefd1ad8de01",
+                                    "name": "Anthony Newley",
+                                    "sortName": "Newley, Anthony",
+                                    "disambiguation": "English actor, singer, songwriter, and filmmaker",
+                                    "url": "https://www.setlist.fm/setlists/anthony-newley-53d767cd.html"
+                                }
+                            },
+                            {
+                                "name": "Invincible"
+                            },
+                            {
+                                "name": "Hysteria",
+                                "info": "Kaoss pad intro"
+                            },
+                            {
+                                "name": "Starlight"
+                            },
+                            {
+                                "name": "Bliss",
+                                "info": "Guitar riff intro, extended"
+                            },
+                            {
+                                "name": "Time Is Running Out",
+                                "info": "Whole Lotta Love + Bombtrack + Jimmy Jam + Voodoo Child intro"
+                            },
+                            {
+                                "name": "Stockholm Syndrome",
+                                "info": "Hangar 18 intro, Township Rebellion + Agitated + Endless Nameless outro"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Megalomania",
+                                "info": "First live performance since 2002"
+                            },
+                            {
+                                "name": "Osaka Jam"
+                            },
+                            {
+                                "name": "Plug In Baby"
+                            },
+                            {
+                                "name": "Knights of Cydonia",
+                                "info": "Close Encounters intro"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/muse/2008/royal-albert-hall-london-england-2bd6e492.html"
+        },
+        {
+            "id": "5b87a388",
+            "versionId": "g4bdf17a2",
+            "eventDate": "15-02-2005",
+            "lastUpdated": "2021-07-13T07:40:17.392+0000",
+            "artist": {
+                "mbid": "68ec1b08-3c2e-40b3-b0af-8f323743fdff",
+                "name": "Soulwax",
+                "sortName": "Soulwax",
+                "disambiguation": "Belgian indie/rock/electro band",
+                "url": "https://www.setlist.fm/setlists/soulwax-63d69283.html"
+            },
+            "venue": {
+                "id": "53d29769",
+                "name": "Wedgewood Rooms",
+                "city": {
+                    "id": "2639996",
+                    "name": "Portsmouth",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 50.8090805768295,
+                        "long": -1.07142448425293
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/wedgewood-rooms-portsmouth-england-53d29769.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Any Minute Now"
+                            },
+                            {
+                                "name": "YYY / NNN"
+                            },
+                            {
+                                "name": "Much Against Everyone's Advice"
+                            },
+                            {
+                                "name": "E Talking"
+                            },
+                            {
+                                "name": "Miserable Girl"
+                            },
+                            {
+                                "name": "Conversation Intercom"
+                            },
+                            {
+                                "name": "Please... Don't Be Yourself"
+                            },
+                            {
+                                "name": "Compute"
+                            },
+                            {
+                                "name": "KracK"
+                            },
+                            {
+                                "name": "Slowdance"
+                            },
+                            {
+                                "name": "Too Many DJ's"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Teachers"
+                            },
+                            {
+                                "name": "NY Excuse"
+                            },
+                            {
+                                "name": "The Prizefighter",
+                                "cover": {
+                                    "mbid": "08dbc17c-a723-4d04-a7b3-8739c1895dd9",
+                                    "name": "Slo Burn",
+                                    "sortName": "Slo Burn",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/slo-burn-bd6958e.html"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/soulwax/2005/wedgewood-rooms-portsmouth-england-5b87a388.html"
+        },
+        {
+            "id": "73d7a655",
+            "versionId": "g3384e855",
+            "eventDate": "19-12-2004",
+            "lastUpdated": "2023-09-29T00:37:21.795+0000",
+            "artist": {
+                "mbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sortName": "Muse",
+                "disambiguation": "UK rock band",
+                "url": "https://www.setlist.fm/setlists/muse-53d6ebd5.html"
+            },
+            "venue": {
+                "id": "23d6c82f",
+                "name": "Earls Court",
+                "city": {
+                    "id": "2643743",
+                    "name": "London",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 51.5084152563931,
+                        "long": -0.125532746315002
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/earls-court-london-england-23d6c82f.html"
+            },
+            "tour": {
+                "name": "Absolution"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Dracula Mountain",
+                                "cover": {
+                                    "mbid": "978a36f7-85c6-44ca-a02e-7564e8fa8284",
+                                    "name": "Lightning Bolt",
+                                    "sortName": "Lightning Bolt",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/lightning-bolt-2bd6a006.html"
+                                },
+                                "info": "Live Premiere"
+                            },
+                            {
+                                "name": "Hysteria"
+                            },
+                            {
+                                "name": "Butterflies & Hurricanes"
+                            },
+                            {
+                                "name": "New Born"
+                            },
+                            {
+                                "name": "Sing for Absolution"
+                            },
+                            {
+                                "name": "Crying Shame",
+                                "info": "Live debut, early & different version"
+                            },
+                            {
+                                "name": "Muscle Museum"
+                            },
+                            {
+                                "name": "Citizen Erased"
+                            },
+                            {
+                                "name": "Ruled by Secrecy"
+                            },
+                            {
+                                "name": "Sunburn",
+                                "info": "piano interlude"
+                            },
+                            {
+                                "name": "Thoughts of a Dying Atheist"
+                            },
+                            {
+                                "name": "The Small Print",
+                                "info": "with intro riff + Township Rebellion riff outro"
+                            },
+                            {
+                                "name": "Time Is Running Out",
+                                "info": "with Heartbreaker riff intro"
+                            },
+                            {
+                                "name": "Plug In Baby"
+                            },
+                            {
+                                "name": "Bliss",
+                                "info": "extended version"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Dead Star"
+                            },
+                            {
+                                "name": "Micro Cuts"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 2,
+                        "song": [
+                            {
+                                "name": "Intro"
+                            },
+                            {
+                                "name": "Apocalypse Please"
+                            },
+                            {
+                                "name": "Stockholm Syndrome",
+                                "info": "RATM's \"Township Rebellion\" riff + \"Execution Commentary\" riff + \"Hyper Chondriac Music\" outro"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/muse/2004/earls-court-london-england-73d7a655.html"
+        },
+        {
+            "id": "1bd0d548",
+            "versionId": "g7be89680",
+            "eventDate": "16-08-2004",
+            "lastUpdated": "2023-04-03T10:34:07.070+0000",
+            "artist": {
+                "mbid": "b2dbfc09-b332-408b-a235-1850e41971c5",
+                "name": "Bloodhound Gang",
+                "sortName": "Bloodhound Gang",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/bloodhound-gang-1bd689c4.html"
+            },
+            "venue": {
+                "id": "73d372b1",
+                "name": "London Astoria",
+                "city": {
+                    "id": "2643743",
+                    "name": "London",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 51.5084152563931,
+                        "long": -0.125532746315002
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/london-astoria-london-england-73d372b1.html"
+            },
+            "tour": {
+                "name": "Hefty Fine"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Magna Cum Nada"
+                            },
+                            {
+                                "name": "Lift Your Head Up High (and Blow Your Brains Out)"
+                            },
+                            {
+                                "name": "Along Comes Mary",
+                                "cover": {
+                                    "mbid": "e1fae923-bf20-4d7b-89fb-38ecc0a8236b",
+                                    "name": "The Association",
+                                    "sortName": "Association, The",
+                                    "disambiguation": "US sunshine pop group",
+                                    "url": "https://www.setlist.fm/setlists/the-association-53d6af65.html"
+                                }
+                            },
+                            {
+                                "name": "Jackass"
+                            },
+                            {
+                                "name": "The Ballad of Chasey Lain"
+                            },
+                            {
+                                "name": "Three Point One Four"
+                            },
+                            {
+                                "name": "Ralph Wiggum"
+                            },
+                            {
+                                "name": "Nothing",
+                                "cover": {
+                                    "mbid": "55c6eb6e-8388-497c-acaf-dbff584d0c3a",
+                                    "name": "A",
+                                    "sortName": "A",
+                                    "disambiguation": "British band",
+                                    "url": "https://www.setlist.fm/setlists/a-bd609fe.html"
+                                },
+                                "info": "The band 'A' took over the stage and played this",
+                                "with": {
+                                    "mbid": "55c6eb6e-8388-497c-acaf-dbff584d0c3a",
+                                    "name": "A",
+                                    "sortName": "A",
+                                    "disambiguation": "British band",
+                                    "url": "https://www.setlist.fm/setlists/a-bd609fe.html"
+                                }
+                            },
+                            {
+                                "name": "The Bad Touch"
+                            },
+                            {
+                                "name": "Hell Yeah"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Hey Ya!",
+                                "cover": {
+                                    "mbid": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
+                                    "name": "OutKast",
+                                    "sortName": "OutKast",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/outkast-bd6cd72.html"
+                                }
+                            },
+                            {
+                                "name": "Fire Water Burn"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/bloodhound-gang/2004/london-astoria-london-england-1bd0d548.html"
+        },
+        {
+            "id": "3bd7a09c",
+            "versionId": "g4b84efba",
+            "eventDate": "04-12-2003",
+            "lastUpdated": "2023-09-28T23:47:26.007+0000",
+            "artist": {
+                "mbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sortName": "Muse",
+                "disambiguation": "UK rock band",
+                "url": "https://www.setlist.fm/setlists/muse-53d6ebd5.html"
+            },
+            "venue": {
+                "id": "63d6ceb3",
+                "name": "Brighton Centre",
+                "city": {
+                    "id": "2654710",
+                    "name": "Brighton",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 50.8283849472495,
+                        "long": -0.139474868774414
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/brighton-centre-brighton-england-63d6ceb3.html"
+            },
+            "tour": {
+                "name": "Absolution"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Intro"
+                            },
+                            {
+                                "name": "Apocalypse Please"
+                            },
+                            {
+                                "name": "Hysteria"
+                            },
+                            {
+                                "name": "New Born"
+                            },
+                            {
+                                "name": "Sing for Absolution"
+                            },
+                            {
+                                "name": "Thoughts of a Dying Atheist"
+                            },
+                            {
+                                "name": "Citizen Erased"
+                            },
+                            {
+                                "name": "Space Dementia"
+                            },
+                            {
+                                "name": "Endlessly"
+                            },
+                            {
+                                "name": "Sunburn",
+                                "info": "with Adagio Sostenuto intro"
+                            },
+                            {
+                                "name": "Bliss"
+                            },
+                            {
+                                "name": "Butterflies & Hurricanes"
+                            },
+                            {
+                                "name": "The Small Print"
+                            },
+                            {
+                                "name": "Forced In",
+                                "info": "instrumental"
+                            },
+                            {
+                                "name": "Muscle Museum"
+                            },
+                            {
+                                "name": "Time Is Running Out"
+                            },
+                            {
+                                "name": "Plug In Baby"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Blackout"
+                            },
+                            {
+                                "name": "Stockholm Syndrome"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/muse/2003/brighton-centre-brighton-england-3bd7a09c.html"
+        },
+        {
+            "id": "63d7069b",
+            "versionId": "g33e5b831",
+            "eventDate": "09-03-2003",
+            "lastUpdated": "2022-11-22T23:34:27.028+0000",
+            "artist": {
+                "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+                "name": "Red Hot Chili Peppers",
+                "sortName": "Red Hot Chili Peppers",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/red-hot-chili-peppers-13d68969.html"
+            },
+            "venue": {
+                "id": "3d6c98f",
+                "name": "London Arena",
+                "city": {
+                    "id": "2643743",
+                    "name": "London",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 51.5084152563931,
+                        "long": -0.125532746315002
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/london-arena-london-england-3d6c98f.html"
+            },
+            "tour": {
+                "name": "By the Way"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Intro Jam"
+                            },
+                            {
+                                "name": "By the Way"
+                            },
+                            {
+                                "name": "Scar Tissue"
+                            },
+                            {
+                                "name": "Around the World"
+                            },
+                            {
+                                "name": "Maybe",
+                                "cover": {
+                                    "mbid": "6a977a8f-13a2-46d9-bad0-d86ddcb6e595",
+                                    "name": "The Chantels",
+                                    "sortName": "Chantels, The",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/the-chantels-4bd797e6.html"
+                                },
+                                "info": "John solo"
+                            },
+                            {
+                                "name": "The Zephyr Song"
+                            },
+                            {
+                                "name": "Suck My Kiss"
+                            },
+                            {
+                                "name": "Otherside"
+                            },
+                            {
+                                "name": "Parallel Universe",
+                                "info": "with \"Latest Disgrace\" intro"
+                            },
+                            {
+                                "name": "Havana Affair",
+                                "cover": {
+                                    "mbid": "d6ed7887-a401-47a8-893c-34b967444d26",
+                                    "name": "Ramones",
+                                    "sortName": "Ramones",
+                                    "disambiguation": "US punk rock band",
+                                    "url": "https://www.setlist.fm/setlists/ramones-13d6a5cd.html"
+                                }
+                            },
+                            {
+                                "name": "Don't Forget Me"
+                            },
+                            {
+                                "name": "Right on Time",
+                                "info": "with \"London Calling\" intro"
+                            },
+                            {
+                                "name": "Warm Tape"
+                            },
+                            {
+                                "name": "Soul to Squeeze"
+                            },
+                            {
+                                "name": "Can't Stop"
+                            },
+                            {
+                                "name": "Californication"
+                            },
+                            {
+                                "name": "Venice Queen"
+                            },
+                            {
+                                "name": "Give It Away"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Under the Bridge"
+                            },
+                            {
+                                "name": "Search and Destroy",
+                                "cover": {
+                                    "mbid": "1253e5e9-eaa7-4ce6-81b8-09725e8cee43",
+                                    "name": "Iggy and The Stooges",
+                                    "sortName": "Iggy and The Stooges",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/iggy-and-the-stooges-7bd65ad0.html"
+                                }
+                            },
+                            {
+                                "name": "Final Jam"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/red-hot-chili-peppers/2003/london-arena-london-england-63d7069b.html"
+        },
+        {
+            "id": "23dffcfb",
+            "versionId": "7b228624",
+            "eventDate": "08-09-2002",
+            "lastUpdated": "2020-09-26T22:29:40.899+0000",
+            "artist": {
+                "mbid": "ac865b2e-bba8-4f5a-8756-dd40d5e39f46",
+                "name": "Korn",
+                "sortName": "Korn",
+                "disambiguation": "US nu metal band",
+                "url": "https://www.setlist.fm/setlists/korn-4bd6d3fe.html"
+            },
+            "venue": {
+                "id": "3d6c98f",
+                "name": "London Arena",
+                "city": {
+                    "id": "2643743",
+                    "name": "London",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 51.5084152563931,
+                        "long": -0.125532746315002
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/london-arena-london-england-3d6c98f.html"
+            },
+            "tour": {
+                "name": "Untouchables"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Here to Stay"
+                            },
+                            {
+                                "name": "Twist"
+                            },
+                            {
+                                "name": "A.D.I.D.A.S."
+                            },
+                            {
+                                "name": "Dead Bodies Everywhere"
+                            },
+                            {
+                                "name": "Trash"
+                            },
+                            {
+                                "name": "Blind"
+                            },
+                            {
+                                "name": "Bottled Up Inside"
+                            },
+                            {
+                                "name": "One More Time"
+                            },
+                            {
+                                "name": "Faget"
+                            },
+                            {
+                                "name": "Falling Away From Me"
+                            },
+                            {
+                                "name": "Make Me Bad",
+                                "info": "with snippets of Metallica's \"One\" and Korn's \"Justin\" at the end"
+                            },
+                            {
+                                "name": "Freak on a Leash"
+                            },
+                            {
+                                "name": "No One's There"
+                            },
+                            {
+                                "name": "Somebody Someone"
+                            },
+                            {
+                                "name": "Thoughtless"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Shoots and Ladders"
+                            },
+                            {
+                                "name": "Got the Life"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/korn/2002/london-arena-london-england-23dffcfb.html"
+        },
+        {
+            "id": "4bd7a31e",
+            "versionId": "g2be04036",
+            "eventDate": "24-08-2002",
+            "lastUpdated": "2023-01-13T16:00:20.835+0000",
+            "artist": {
+                "mbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sortName": "Muse",
+                "disambiguation": "UK rock band",
+                "url": "https://www.setlist.fm/setlists/muse-53d6ebd5.html"
+            },
+            "venue": {
+                "id": "63d6cecf",
+                "name": "Little John's Farm",
+                "city": {
+                    "id": "2639577",
+                    "name": "Reading",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 51.4333333,
+                        "long": -1.0
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/little-johns-farm-reading-england-63d6cecf.html"
+            },
+            "tour": {
+                "name": "Origin of Symmetry"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "New Born"
+                            },
+                            {
+                                "name": "The Small Print",
+                                "info": "early version"
+                            },
+                            {
+                                "name": "Space Dementia"
+                            },
+                            {
+                                "name": "Micro Cuts"
+                            },
+                            {
+                                "name": "Dead Star"
+                            },
+                            {
+                                "name": "Citizen Erased"
+                            },
+                            {
+                                "name": "Sunburn",
+                                "info": "guitar"
+                            },
+                            {
+                                "name": "Eternally Missed",
+                                "info": "Falling Away With You intro"
+                            },
+                            {
+                                "name": "Feeling Good",
+                                "cover": {
+                                    "mbid": "9a93190b-3e24-4586-bc10-aefd1ad8de01",
+                                    "name": "Anthony Newley",
+                                    "sortName": "Newley, Anthony",
+                                    "disambiguation": "English actor, singer, songwriter, and filmmaker",
+                                    "url": "https://www.setlist.fm/setlists/anthony-newley-53d767cd.html"
+                                }
+                            },
+                            {
+                                "name": "Hyper Music",
+                                "info": "Stockholm Syndrome outro"
+                            },
+                            {
+                                "name": "Muscle Museum"
+                            },
+                            {
+                                "name": "Plug In Baby"
+                            },
+                            {
+                                "name": "Bliss",
+                                "info": "extended + Entrance of the Gladiators"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/muse/2002/little-johns-farm-reading-england-4bd7a31e.html"
+        },
+        {
+            "id": "5bd49754",
+            "versionId": "g23d8a0a3",
+            "eventDate": "26-06-2002",
+            "lastUpdated": "2021-09-22T15:17:21.259+0000",
+            "artist": {
+                "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+                "name": "Red Hot Chili Peppers",
+                "sortName": "Red Hot Chili Peppers",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/red-hot-chili-peppers-13d68969.html"
+            },
+            "venue": {
+                "id": "3d6c98f",
+                "name": "London Arena",
+                "city": {
+                    "id": "2643743",
+                    "name": "London",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 51.5084152563931,
+                        "long": -0.125532746315002
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/london-arena-london-england-3d6c98f.html"
+            },
+            "tour": {
+                "name": "By the Way"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Intro Jam"
+                            },
+                            {
+                                "name": "By the Way"
+                            },
+                            {
+                                "name": "Scar Tissue"
+                            },
+                            {
+                                "name": "Around the World"
+                            },
+                            {
+                                "name": "Universally Speaking"
+                            },
+                            {
+                                "name": "Otherside"
+                            },
+                            {
+                                "name": "Give It Away"
+                            },
+                            {
+                                "name": "Soul to Squeeze"
+                            },
+                            {
+                                "name": "Parallel Universe"
+                            },
+                            {
+                                "name": "Right on Time"
+                            },
+                            {
+                                "name": "Fox on the Run",
+                                "cover": {
+                                    "mbid": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+                                    "name": "Sweet",
+                                    "sortName": "Sweet",
+                                    "disambiguation": "UK glam rock band",
+                                    "url": "https://www.setlist.fm/setlists/sweet-6bd6e2aa.html"
+                                },
+                                "info": "John solo"
+                            },
+                            {
+                                "name": "Don't Forget Me"
+                            },
+                            {
+                                "name": "I Could Have Lied"
+                            },
+                            {
+                                "name": "Californication"
+                            },
+                            {
+                                "name": "Can't Stop"
+                            },
+                            {
+                                "name": "Me & My Friends"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Under the Bridge"
+                            },
+                            {
+                                "name": "Search and Destroy",
+                                "cover": {
+                                    "mbid": "1253e5e9-eaa7-4ce6-81b8-09725e8cee43",
+                                    "name": "Iggy and The Stooges",
+                                    "sortName": "Iggy and The Stooges",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/iggy-and-the-stooges-7bd65ad0.html"
+                                }
+                            },
+                            {
+                                "name": "Final Jam"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/red-hot-chili-peppers/2002/london-arena-london-england-5bd49754.html"
+        },
+        {
+            "id": "5bde93e8",
+            "versionId": "2b3e38aa",
+            "eventDate": "27-03-2002",
+            "lastUpdated": "2020-04-15T12:24:20.312+0000",
+            "artist": {
+                "mbid": "bbc5b66b-d037-4f26-aecf-0b129e7f876a",
+                "name": "Jimmy Eat World",
+                "sortName": "Jimmy Eat World",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/jimmy-eat-world-5bd69b28.html"
+            },
+            "venue": {
+                "id": "23d2247f",
+                "name": "Portsmouth Pyramids Centre",
+                "city": {
+                    "id": "2639996",
+                    "name": "Portsmouth",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 50.8090805768295,
+                        "long": -1.07142448425293
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/portsmouth-pyramids-centre-portsmouth-england-23d2247f.html"
+            },
+            "tour": {
+                "name": "Bleed American"
+            },
+            "sets": {
+                "set": []
+            },
+            "url": "https://www.setlist.fm/setlist/jimmy-eat-world/2002/portsmouth-pyramids-centre-portsmouth-england-5bde93e8.html"
+        },
+        {
+            "id": "3ed510f",
+            "versionId": "6b7f46a6",
+            "eventDate": "15-03-2002",
+            "lastUpdated": "2018-06-03T02:01:45.917+0000",
+            "artist": {
+                "mbid": "f2eef649-a6d5-4114-afba-e50ab26254d2",
+                "name": "Sum 41",
+                "sortName": "Sum 41",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/sum-41-53d68fad.html"
+            },
+            "venue": {
+                "id": "6bd5c606",
+                "name": "Portsmouth Guildhall",
+                "city": {
+                    "id": "2639996",
+                    "name": "Portsmouth",
+                    "state": "England",
+                    "stateCode": "ENG",
+                    "coords": {
+                        "lat": 50.8090805768295,
+                        "long": -1.07142448425293
+                    },
+                    "country": {
+                        "code": "GB",
+                        "name": "United Kingdom"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/portsmouth-guildhall-portsmouth-england-6bd5c606.html"
+            },
+            "tour": {
+                "name": "All Killer No Filler"
+            },
+            "sets": {
+                "set": []
+            },
+            "url": "https://www.setlist.fm/setlist/sum-41/2002/portsmouth-guildhall-portsmouth-england-3ed510f.html"
+        }
+    ]
+}
