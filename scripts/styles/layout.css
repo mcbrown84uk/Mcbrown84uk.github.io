@@ -24,7 +24,7 @@ body {
 }
 
 .hero-title{
-    font-size: 7vw;
+    font-size: 10vw;
     text-shadow: 5px 5px rgba(0,0,0,0.75);
     color:orange;
 }
@@ -65,11 +65,19 @@ body {
     background-image: url("../../images/interests/barcelona.jpg");
 }
 
-
+#gigsContainer{
+    background-image: url("../../images/interests/gig.jpg");
+}
 
 
 #lego {
     background-image: url("../../images/interests/stormtrooper_lego.jpg");
 }
 
+#vinyl{
+    background-image: url("../../images/interests/vinyl.jpg");
+}
 
+#gigs{
+  
+}

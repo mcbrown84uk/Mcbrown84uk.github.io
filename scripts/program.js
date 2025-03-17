@@ -11,14 +11,11 @@ function LoadPage() {
         body.appendChild(CreateFullHeightSection(pageSection.id));
     }
 
-    // fetch('data/setlists.json')
-    // .then(response => response.json()) // Parse JSON
-    // .then(data => console.log(data)) // Work with JSON data
-    // .catch(error => console.error('Error fetching JSON:', error));
 
     CreateHero();
     CreateInterests();
     CreateLego();
+    CreateVinyl();
 }
 
 

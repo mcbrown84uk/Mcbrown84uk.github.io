@@ -10,7 +10,7 @@ function CreateInterests() {
     for (var interest of _interests) {
         var interestContainer = document.createElement('div');
         interestContainer.id = interest.toLowerCase() + 'Container';
-        interestContainer.classList.add('col-md-4', 'h-md-100', 'interests-container', 'position-relative');
+        interestContainer.classList.add('col-md-3', 'h-md-100', 'interests-container', 'position-relative');
         
         var title = document.createElement('a');
         title.classList.add('interests-title', 'position-absolute', 'top-50', 'start-50', 'translate-middle', 'p-2', 'w-100', 'text-center');
