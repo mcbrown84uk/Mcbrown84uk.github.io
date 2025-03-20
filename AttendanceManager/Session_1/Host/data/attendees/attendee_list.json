@@ -1,0 +1,20 @@
+[
+    {
+        "guid": "1",
+        "firstName": "Homer",
+        "surname": "Simpson",
+        "position": "7G"
+    },
+    {
+        "guid": "2",
+        "firstName": "Peter",
+        "surname": "Griffin",
+        "position": "Drunk"
+    }
+    {
+        "guid": "3",
+        "firstName": "Luke",
+        "surname": "Skywalker",
+        "position": "Jedi Knight"
+    }
+]
